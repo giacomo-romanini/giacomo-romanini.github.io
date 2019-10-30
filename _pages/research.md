@@ -17,4 +17,4 @@ Submitted Manuscripts
 Work in Progress
 ======
 1. "Information Costs, Financial Hubs, and the Global Banking Network",  
-*with Raoul Minetti, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a> *
+*with Raoul Minetti, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>*
