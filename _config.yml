@@ -85,8 +85,8 @@ author:
   bio              : "Economics PhD at Michigan State University"
   location         : "Lansing, Michigan (USA)"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : #""
+  googlescholar    : #""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
