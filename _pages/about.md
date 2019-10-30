@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "GiacomoRomanini"
+title: "Giacomo Romanini"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-mangio di tutto anche poliuretano
+- Economics PhD Candidate at Michigan State University
+- Interests: Macroeconomics, International Finance, Applied Econometrics
 
 
