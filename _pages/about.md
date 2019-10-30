@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 I am a PhD Candidate in Economics at Michigan State University  
-My research interests are Macroeconomics, International Finance, Applied Econometrics, with an emphasis on economic geography/spillover effects of financial markets frictions. 
+
+
+My research interests are Macroeconomics, International Finance, Applied Econometrics, with an emphasis on spillover effects of financial markets frictions. 
 
 
 
