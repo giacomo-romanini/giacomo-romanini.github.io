@@ -12,7 +12,7 @@ redirect_from:
 Submitted Manuscripts
 ======
 1. "Recessions and Recoveries. Multinational Banks in the Business Cycle",  
-*with <a href="https://qingqingcao.weebly.com/" target="_blank">Qingqing Cao</a>  , <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://www.lebow.drexel.edu/people/mariaolivero" target="_blank">Maria Pia Olivero</a>*
+*with <a href="https://qingqingcao.weebly.com/" target="_blank">Qingqing Cao</a>, <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://www.lebow.drexel.edu/people/mariaolivero" target="_blank">Maria Pia Olivero</a>*
 
 Work in Progress
 ======
