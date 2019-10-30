@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Economics PhD Candidate at Michigan State University <br />
-Interests: Macroeconomics, International Finance, Applied Econometrics
+I am a PhD Candidate in Economics at Michigan State University  
+My research interests are Macroeconomics, International Finance, Applied Econometrics, with an emphasis on economic geography/spillover effects of financial markets frictions. 
 
+
+
+<a href="https://www.dropbox.com/s/74o9pth7eg8wxd1/RomaniniCV2019.pdf?dl=0" target="blank">CV</a>
 
