@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-[CV](https://www.dropbox.com/s/74o9pth7eg8wxd1/RomaniniCV2019.pdf?dl=0){target="_blank"}
+[CV](https://www.dropbox.com/s/74o9pth7eg8wxd1/RomaniniCV2019.pdf?dl=0){:target="_blank"}
