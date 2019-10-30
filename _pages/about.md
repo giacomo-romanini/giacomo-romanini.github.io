@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Economics PhD Candidate at Michigan State University
+Economics PhD Candidate at Michigan State University <br />
 Interests: Macroeconomics, International Finance, Applied Econometrics
 
 
