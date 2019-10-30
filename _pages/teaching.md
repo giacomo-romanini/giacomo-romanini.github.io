@@ -9,6 +9,7 @@ author_profile: true
 
 Instructor
 ===========
+
 | ClassCode    | Name          |       |
 | -------------|:-------------| -----:|
 |EC202| Principles of Macroeconomics | *online, summer 2019*
@@ -17,6 +18,7 @@ Instructor
 
 Teaching Assistant
 ===========
+
 | ClassCode    | Name          |       |
 | -------------|:-------------| -----:|
 |EC202 | Principles of Macroeconomics | *fall 2017, spring 2018*
