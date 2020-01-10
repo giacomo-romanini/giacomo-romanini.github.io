@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Submitted Manuscripts
+Publications
 ======
-1. "Recessions and Recoveries. Multinational Banks in the Business Cycle",  
+1. "Recessions and Recoveries. Multinational Banks in the Business Cycle", *forthcoming* **Journal of Monetary Economics**  
 *with <a href="https://qingqingcao.weebly.com/" target="_blank">Qingqing Cao</a>, <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://www.lebow.drexel.edu/people/mariaolivero" target="_blank">Maria Pia Olivero</a>*
 
 Work in Progress
