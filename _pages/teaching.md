@@ -26,4 +26,4 @@ Teaching Assistant
 |EC302 | Intermediate Macroeconomics | *spring 2017* 
 |EC330 | Money, Banking, and Financial Markets | *fall 2018, spring 2019* 
 |ECSP405 | Mathematical Methods | *AEA Summer Program 2019*
-|EC420| Intro to Econometric Methods | *fall 2019*
+|EC420| Intro to Econometric Methods | *fall 2019, spring 2020*
