@@ -3,11 +3,12 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
+header:
+  image: /images/image-alignment-1200x4002.jpg
 redirect_from: 
   - /about/
   - /about.html
-header:
-  image: /images/image-alignment-1200x4002.jpg
+
 
 
 I am a PhD Candidate in Economics at Michigan State University  
