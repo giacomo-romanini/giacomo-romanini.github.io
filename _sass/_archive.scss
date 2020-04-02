@@ -30,7 +30,7 @@
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
-  font-size: $type-size-7;
+  font-size: $type-size-8;
   color: mix(#fff, $gray, 25%);
   border-bottom: 1px solid $border-color;
 
@@ -121,7 +121,7 @@
 
   .archive__item-title {
     margin-top: 0.5em;
-    font-size: 0.1em;
+    font-size: 0.5em;
   }
 
   .archive__item-excerpt {
@@ -164,7 +164,7 @@
 
 .feature__item {
   margin-bottom: 2em;
-  font-size: 1.25rem;
+  font-size: 1rem;
 
   @include breakpoint($small) {
     margin-bottom: 0;
@@ -178,7 +178,7 @@
 
   &--left {
     @include full();
-    font-size: 1.25rem;
+    font-size: 1rem;
 
     .archive__item-teaser {
       margin-bottom: 2em;
