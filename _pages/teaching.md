@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-Instructor
-===========
+### Instructor
+
 
 | ClassCode    | Course          |       |
 | -------------|:-------------| -----:|
@@ -16,8 +16,8 @@ Instructor
 |EC330| Money, Banking, and Financial Markets | *online, summer 2018*
 
 
-Teaching Assistant
-===========
+### Teaching Assistant
+
 
 | ClassCode    | Course          |       |
 | -------------|:-------------| -----:|
