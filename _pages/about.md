@@ -16,5 +16,5 @@ My research interests are Macroeconomics, International Finance, Economic Geogra
 
 
 
-<a href="https://www.dropbox.com/s/74o9pth7eg8wxd1/RomaniniCV.pdf?dl=0" target="blank">CV</a>
+<a href="https://www.dropbox.com/s/ru3au84biy9ah6d/RomaniniCV.pdf?dl=0" target="blank">CV</a>
 
