@@ -28,3 +28,4 @@ author_profile: true
 |ECSP405 | Mathematical Methods | *AEA Summer Program 2019*
 |EC420| Intro to Econometric Methods | *fall 2019, spring 2020*
 |ECSP 418| Econometrics | *AEA Summer Program 2020*
+|EC 813A| Graduate Macroeconomics | *fall 2021*
