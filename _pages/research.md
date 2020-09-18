@@ -16,5 +16,8 @@ How does the expansion of multinational banks influence the business cycle of ho
 
   1. "Information Costs, Financial Hubs, and the Global Banking Network",  
 *with <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>*
+  2. High Dimensional Environmental Uncertainty and Monetary Policy, with Vincenzo Giannico
+  3. Fiscal-Monetary Interaction and Inequality
+  4. International Spillovers of Monetary Policy
 
 
