@@ -13,8 +13,10 @@ author_profile: true
 
 ### Learning Resources
  
-- DSGE [(link)](https://faculty.wcas.northwestern.edu/~lchrist/course/shorter_course.html)
-- International Finance [(link)](https://www.gsb.stanford.edu/faculty-research/faculty/conferences/big-data-initiative-international-macro-finance/videos-codes?undefined)
+- DSGE[(Lawrence J. Christiano)](https://faculty.wcas.northwestern.edu/~lchrist/course/shorter_course.html) (
+- A lot of macro, computational and also history! [(Jesús Fernández-Villaverde)]https://www.sas.upenn.edu/~jesusfv/teaching.html)
+- International Finance: [(Matteo Maggiori)](https://www.gsb.stanford.edu/faculty-research/faculty/conferences/big-data-initiative-international-macro-finance/videos-codes?undefined)
+- Trade [Treb Allen Grad](https://sites.google.com/site/treballen/graduate-trade)
 
 
 ### Teaching Stuff
