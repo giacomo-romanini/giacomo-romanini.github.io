@@ -13,7 +13,7 @@ author_profile: true
 
 ### Learning Resources
  
-- DSGE [(link)] (https://faculty.wcas.northwestern.edu/~lchrist/course/shorter_course.html)
+- DSGE [(link)](https://faculty.wcas.northwestern.edu/~lchrist/course/shorter_course.html)
 - International Finance [(link)](https://www.gsb.stanford.edu/faculty-research/faculty/conferences/big-data-initiative-international-macro-finance/videos-codes?undefined)
 
 
