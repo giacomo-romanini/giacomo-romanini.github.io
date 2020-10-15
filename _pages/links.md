@@ -8,7 +8,7 @@ author_profile: true
 
 ### Latex
 
--Fonts [(link)](https://tug.org/FontCatalogue/sansseriffonts.html)
+- Fonts [(link)](https://tug.org/FontCatalogue/sansseriffonts.html)
 
 
 ### Learning Resources
