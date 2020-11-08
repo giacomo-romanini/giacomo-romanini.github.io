@@ -18,5 +18,5 @@ Email:  romanin1 [#] msu.edu
 
 
 
-Here's my <a href="https://www.dropbox.com/s/ru3au84biy9ah6d/RomaniniCV.pdf?dl=0" target="blank">Curriculum Vitae</a>
+Here's my <a href="https://www.dropbox.com/s/ru3au84biy9ah6d/RomaniniCV.pdf?raw=1" target="blank">Curriculum Vitae</a>
 
