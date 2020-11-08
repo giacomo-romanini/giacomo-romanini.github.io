@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD Candidate in Economics at Michigan State University  
+I am a PhD Candidate in Economics at Michigan State University. I am available for interviews for the 2020-2021 job market.
 
 
 My research interests are Macroeconomics, International Finance, Monetary, International Trade, with an emphasis on network effects and financial markets frictions. 
