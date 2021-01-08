@@ -27,4 +27,5 @@ author_profile: true
 |EC330 | Money, Banking, and Financial Markets | *fall 2018, spring 2019* 
 |ECSP405 | Mathematical Methods | *AEA Summer Program 2019*
 |EC420| Intro to Econometric Methods | *fall 2019, spring 2020, AEA Summer Program 2020*
+|EC440| International Trade | *fall 2019*
 |EC 813A| Graduate Macroeconomics | *fall 2020*
