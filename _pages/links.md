@@ -19,7 +19,7 @@ author_profile: true
 - International Finance [(Matteo Maggiori's Online Course)](https://www.gsb.stanford.edu/faculty-research/faculty/conferences/big-data-initiative-international-macro-finance/videos-codes?undefined)
 - Trade [(Treb Allen's Grad Class)](https://sites.google.com/site/treballen/graduate-trade)
 - Social Networks [(Matthew Jackson's website)](https://web.stanford.edu/~jacksonm/courses.html)
-- Network Viz [Katherine Ognyanova](https://kateto.net/network-visualization)
+- Network Viz in R [(Katherine Ognyanova)](https://kateto.net/network-visualization)
 
 
 ### Teaching Stuff
