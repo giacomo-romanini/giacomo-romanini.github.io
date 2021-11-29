@@ -21,8 +21,9 @@ We present a model that can capture the effects of banking networks and the pote
   
 ### Work in Progress
   
-  1. High Dimensional Environmental Uncertainty and Monetary Policy, with Vincenzo Giannico
-  2. Fiscal-Monetary Interaction and Inequality, with <a href="http://www.timothymoreland.com/" target="_blank">Timothy Moreland</a>
-  3. International Spillovers of Monetary Policy
+  1. Trade and Banking: The Geography of Business Cycle Synchronization, with <a href="https://sites.google.com/view/jun-taepark/home" target="_blank">Jun-Tae Park</a>
+  2. High Dimensional Environmental Uncertainty and Monetary Policy, with Vincenzo Giannico
+  3. Fiscal-Monetary Interaction and Inequality, with <a href="http://www.timothymoreland.com/" target="_blank">Timothy Moreland</a>
+  4. International Spillovers of Monetary Policy
 
 
