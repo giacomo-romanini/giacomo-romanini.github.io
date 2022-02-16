@@ -16,6 +16,7 @@ author_profile: true
 - Several macro notes, at different levels [(Chris Edmond)](http://www.chrisedmond.net/teaching.html)
 - A massive amount of DSGE courses [(Lawrence J. Christiano)](https://faculty.wcas.northwestern.edu/~lchrist/course/shorter_course.html) 
 - A lot of macro, computational and also history notes [(Jesús Fernández-Villaverde)](https://www.sas.upenn.edu/~jesusfv/teaching.html)
+- Financial Frictions [(Eric Sims)](https://www3.nd.edu/~esims1/adv_macro_2021.html)
 - International Finance [(Matteo Maggiori's Online Course)](https://www.gsb.stanford.edu/faculty-research/faculty/conferences/big-data-initiative-international-macro-finance/videos-codes?undefined)
 - Trade: [Treb Allen](https://sites.google.com/site/treballen/graduate-trade)'s and [Thomas Chaney](https://sites.google.com/site/thomaschaney/teaching/trade)'s classes
 - Social Networks [(Matthew Jackson's website)](https://web.stanford.edu/~jacksonm/courses.html)
