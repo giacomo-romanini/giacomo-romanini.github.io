@@ -21,6 +21,7 @@ author_profile: true
 - Trade: [Treb Allen](https://sites.google.com/site/treballen/graduate-trade)'s and [Thomas Chaney](https://sites.google.com/site/thomaschaney/teaching/trade)'s classes
 - Social Networks [(Matthew Jackson's website)](https://web.stanford.edu/~jacksonm/courses.html)
 - Network Viz in R [(Katherine Ognyanova)](https://kateto.net/network-visualization)
+- Very nice project on DiD debate/resources [link](https://asjadnaqvi.github.io/DiD/)
 
 
 ### Teaching Stuff
