@@ -34,3 +34,4 @@ author_profile: true
 
 - Miranda-Agrippino's code [(link)](http://silviamirandaagrippino.com/code-data)
 - Notes and some DSGE codes [(Valerio Nispi Landi)](https://sites.google.com/site/valerionispi/dsges)
+- Country codes (ISO2, ISO3, UN, countryname) [dta, you can do the merge using the url](https://github.com/giacomo-romanini/giacomo-romanini.github.io/raw/master/ISOcodes.dta) 
