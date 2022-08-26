@@ -35,3 +35,4 @@ author_profile: true
 - Miranda-Agrippino's code [(link)](http://silviamirandaagrippino.com/code-data)
 - Notes and some DSGE codes [(Valerio Nispi Landi)](https://sites.google.com/site/valerionispi/dsges)
 - Country codes (ISO2, ISO3, UN, countryname) [(dta)](https://github.com/giacomo-romanini/giacomo-romanini.github.io/raw/master/ISO2_ISO3_UN_country_codes.dta) 
+- Great Econometric textbook + a ton of code! [Martin, Hurn, Harris](https://www.cambridge.org/features/econmodelling/chapter14.htm)
