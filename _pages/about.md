@@ -19,4 +19,4 @@ Email:  romanin1 [#] msu.edu
 
 Here's my <a href="https://www.dropbox.com/home/Documenti/CV/GiacomoRomaniniCV.pdf?raw=1" target="blank">Curriculum Vitae</a>
 
-
+![title](images/profile.jpg)
