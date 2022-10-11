@@ -19,7 +19,8 @@ How does the expansion of multinational banks influence the business cycle of ho
 *with <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>*  
 We present a model that can capture the effects of banking networks and the potential for spillovers from the concentration of claims at financial hubs. In particular, we gauge the implications from indirect international flows and the role of financial hubs with respect to intermediation costs. Using the variation from direct and indirect banking flows provided by the Consolidated and Locational banking statistics from the Bank of International Settlements, we use the model to recover the bilateral and expected edge-specific costs through minimal distance estimation, thus providing a theoretical estimation of the unobserved cost usually proxied by a combination of observable distance measures. A network model defines the extensive margin. Then, we embed the Allen and Arkolakis (2019) transportation model in a Eaton and Kortum (2002) setting to allow for endogenous financial hub formation and incorporate the choice of path. The intensive margin of lending flows arises from banks choosing the path within a network through which they allocate their corporate lending, while decentralized bilateral shocks determine the interbank network equilibrium.
 
-  2. Does JIT production change the network structure of GVCs? Evidence from Italian firms, with Simona Giglioli (draft coming soon)
+  2. Does JIT production change the network structure of GVCs? Evidence from Italian firms, (draft coming soon)
+with Simona Giglioli 
 
   
 ### Work in Progress
