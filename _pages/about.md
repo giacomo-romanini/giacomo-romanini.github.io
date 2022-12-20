@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-I am a Research Fellow in the DG Economics, Statistics and Research at the Bank of Italy.
+I am a Research Economist at the Bank of Italy.
 
 I hold a Ph.D. in Economics from Michigan State University.
 
 My research interests are International Banking and International Trade, with an emphasis on network effects and financial markets frictions. 
 
-Email:  romanin1 [#] msu.edu
+Email:  giacomo.romanini [#] bancaditalia.it
 
 
 
