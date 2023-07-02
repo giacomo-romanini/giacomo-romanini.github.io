@@ -15,19 +15,11 @@ How does the expansion of multinational banks influence the business cycle of ho
 
 ### Working Papers
 
-  1. "Intermediation Costs and Banking Hubs in the Global Network" [<a href="https://www.dropbox.com/s/jzr1hchwtz70ypo/Romanini_jmp.pdf?raw=1" target="_blank">PDF</a>] **job market paper**,  
+  1. "The Network Gravity of Global Banking" **new draft coming soon**,  
 *with <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>*  
-We present a model that can capture the effects of banking networks and the potential for spillovers from the concentration of claims at financial hubs. In particular, we gauge the implications from indirect international flows and the role of financial hubs with respect to intermediation costs. Using the variation from direct and indirect banking flows provided by the Consolidated and Locational banking statistics from the Bank of International Settlements, we use the model to recover the bilateral and expected edge-specific costs through minimal distance estimation, thus providing a theoretical estimation of the unobserved cost usually proxied by a combination of observable distance measures. A network model defines the extensive margin. Then, we embed the Allen and Arkolakis (2019) transportation model in a Eaton and Kortum (2002) setting to allow for endogenous financial hub formation and incorporate the choice of path. The intensive margin of lending flows arises from banks choosing the path within a network through which they allocate their corporate lending, while decentralized bilateral shocks determine the interbank network equilibrium.
+A substantial fraction of international banking is intermediated through banking hubs and complex multi-national routing. These flows are ignored or unaccounted for, both theoretically and empirically. We develop an N-country DSGE model of lending where banks choose the path of lending through an endogenously formed network of partner institutions in multiple countries. Banking hub countries arise endogenously as central nodes in the intermediation network. The model provides a framework to rationalize observable international statistics with theoretical models of banking gravity. It generates a set of bilateral locational flow of funds that conceptually matches aggregate (BIS LBS) statistics, as distinct from the ultimate demand and supply of lending. Using a series of calibrations for both node and edge shocks, we show that accounting for the network is crucial for understanding the propagation of shocks and the impact of banking consolidation on aggregate fluctuations. The analysis reveals that neglecting the multinational banking network can lead to biased conclusions about the aggregate effects of banking unions.
 
   2. Does JIT production change the network structure of GVCs? Evidence from Italian firms, (draft coming soon)
-*with Simona Giglioli* 
-
-  
-### Work in Progress
-  
-  1. Trade and Banking: The Geography of Business Cycle Synchronization, with <a href="https://sites.google.com/view/jun-taepark/home" target="_blank">Jun-Tae Park</a>
-  2. High Dimensional Environmental Uncertainty and Monetary Policy, with Vincenzo Giannico
-  3. Fiscal-Monetary Interaction and Inequality, with <a href="http://www.timothymoreland.com/" target="_blank">Timothy Moreland</a>
-  4. International Spillovers of Monetary Policy
+*with Simona Giglioli 
 
 
