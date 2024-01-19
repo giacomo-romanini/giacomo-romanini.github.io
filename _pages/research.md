@@ -15,9 +15,20 @@ How does the expansion of multinational banks influence the business cycle of ho
 
 ### Working Papers
 
-  1. "The Network Gravity of Global Banking" **new draft coming soon**,  
+  1. "The Network Gravity of Global Banking" [<a href="files/Romanini_BankingPaths.pdf" target="_blank">link</a>]**wp**,  
 *with <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>*  
-A substantial fraction of international banking is intermediated through banking hubs and complex multi-national routing. These flows are ignored or unaccounted for, both theoretically and empirically. We develop an N-country DSGE model of lending where banks choose the path of lending through an endogenously formed network of partner institutions in multiple countries. Banking hub countries arise endogenously as central nodes in the intermediation network. The model provides a framework to rationalize observable international statistics with theoretical models of banking gravity. It generates a set of bilateral locational flow of funds that conceptually matches aggregate (BIS LBS) statistics, as distinct from the ultimate demand and supply of lending. Using a series of calibrations for both node and edge shocks, we show that accounting for the network is crucial for understanding the propagation of shocks and the impact of banking consolidation on aggregate fluctuations. The analysis reveals that neglecting the multinational banking network can lead to biased conclusions about the aggregate effects of banking unions.
+International lending flows are often intermediated through banking hubs and
+complex multi-national routing. We develop a dynamic stochastic general equilibrium
+model where global banks choose the path of direct or indirect lending
+through partner institutions in multiple countries. We show how conflating locational
+loan flows with ultimate lending biases results both by attributing ultimate
+lending to banking hubs, and by missing ultimate lending that occurs indirectly
+via third countries. We next study the effects of global banking complexity.
+Indirect lending allows countries to bypass shocked lending routes via alternative
+countries; however, it dilutes their ability to diversify sources of funds after
+shocks. The quantitative analysis reveals that banking complexity can exacerbate
+credit and output instability when countries feature heterogeneous banking
+efficiency.
 
   2. Does JIT production change the network structure of GVCs? Evidence from Italian firms, (draft coming soon)
 *with Simona Giglioli 
