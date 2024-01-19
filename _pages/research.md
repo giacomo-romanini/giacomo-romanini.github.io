@@ -29,7 +29,7 @@ shocks. The quantitative analysis reveals that banking complexity can exacerbate
 credit and output instability when countries feature heterogeneous banking
 efficiency.
 
-  2. Does JIT production change the network structure of GVCs? Evidence from Italian firms, (draft coming soon)
-*with Simona Giglioli 
+  2. Does JIT production change the network structure of GVCs? Evidence from Italian firms, (draft coming soon) 
+*with Simona Giglioli* 
 
 
