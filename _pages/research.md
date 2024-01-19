@@ -15,7 +15,7 @@ How does the expansion of multinational banks influence the business cycle of ho
 
 ### Working Papers
 
-  1. "The Network Gravity of Global Banking" [<a href="https://github.com/giacomo-romanini/giacomo-romanini.github.io/blob/master/files/Romanini_BankingPaths.pdf" target="_blank">new draft!</a>],  
+  1. "The Network Gravity of Global Banking" [<a href="https://github.com/giacomo-romanini/giacomo-romanini.github.io/blob/master/files/Romanini_BankingPaths.pdf?raw=1" target="_blank">new draft!</a>],  
 *with <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>*  
 International lending flows are often intermediated through banking hubs and
 complex multi-national routing. We develop a dynamic stochastic general equilibrium
