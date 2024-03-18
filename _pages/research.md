@@ -11,7 +11,11 @@ author_profile: true
 ### Working Papers
   1. ***"Banking Complexity in the Global Economy"***  <a href="https://github.com/giacomo-romanini/giacomo-romanini.github.io/blob/master/files/MRZ_BankingPaths.pdf" target="_blank">[**NEW draft!**]</a>  *with <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>*
 
+<p align="center">
 <img src="https://github.com/giacomo-romanini/giacomo-romanini.github.io/blob/master/images/Complexity.png?raw=true" alt="drawing" align="center" width="50%"/>
+</p>
+
+
 
 International lending flows are often intermediated through banking hubs and
 complex multi-national routing. We develop a dynamic stochastic general equilibrium
