@@ -19,6 +19,6 @@ Email:  giacomo.romanini [#] bancaditalia.it
 
 
 
-Here's my <a href="https://github.com/giacomo-romanini/giacomo-romanini.github.io/blob/master/files/CV_Romanini" target="_blank">Curriculum Vitae</a>
+Here's my <a href="https://github.com/giacomo-romanini/giacomo-romanini.github.io/blob/master/files/CV_Romanini.pdf" target="_blank">Curriculum Vitae</a>
 
 ![title](images/profile.jpg)
