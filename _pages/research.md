@@ -9,8 +9,9 @@ author_profile: true
 
 
 ### Working Papers
-  1. ***"Banking Complexity in the Global Economy"***  <a href="https://github.com/giacomo-romanini/giacomo-romanini.github.io/blob/master/files/MRZ_BankingPaths.pdf" target="_blank">[submitted]</a>   
-*with <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>* <sup>Presented at *Bank of Italy, Federal Deposit Insurance Corporation, Indiana University, Michigan State University, University of Alicante, University of Essex, Luiss University (Rome), University of Michigan, University of Perugia, 2023 SED meeting, 2023 GEN workshop, 2023 NYU-Petralia Applied Economics Workshop, Varna 2023 Workshop in Applied Macroeconomics, 2022 Midwest Macroeconomics Meeting, 2022 Ventotene Macroeconomics Workshop* </sub>
+1. ***"Banking Complexity in the Global Economy"***  <a href="https://github.com/giacomo-romanini/giacomo-romanini.github.io/blob/master/files/MRZ_BankingPaths.pdf" target="_blank">[submitted]</a>   
+*with <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>*
+<sup>Presented at *Bank of Italy, Federal Deposit Insurance Corporation, Indiana University, Michigan State University, University of Alicante, University of Essex, Luiss University (Rome), University of Michigan, University of Perugia, 2023 SED meeting, 2023 GEN workshop, 2023 NYU-Petralia Applied Economics Workshop, Varna 2023 Workshop in Applied Macroeconomics, 2022 Midwest Macroeconomics Meeting, 2022 Ventotene Macroeconomics Workshop* </sub>
 <p align="center">
 <img src="https://github.com/giacomo-romanini/giacomo-romanini.github.io/blob/master/images/Complexity.png?raw=true" alt="drawing" align="center" width="50%"/>
 </p>
@@ -30,10 +31,10 @@ shocks. The quantitative analysis reveals that banking complexity can exacerbate
 credit and output instability when countries feature heterogeneous banking
 efficiency.
 
-  2. Global Financial Chains (draft coming soon)
+2. Global Financial Chains (draft coming soon)
 *with <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>*
 
-  3. Does JIT production change the network structure of GVCs? Evidence from Italian firms (draft coming soon) 
+3. Does JIT production change the network structure of GVCs? Evidence from Italian firms (draft coming soon) 
 *with <a href="https://sites.google.com/carloalberto.org/simona-giglioli/home" target="_blank">Simona Giglioli</a>* 
 
 ### Publications
