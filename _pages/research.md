@@ -9,7 +9,7 @@ author_profile: true
 
 
 ### Working Papers
-1. ***"Banking Complexity in the Global Economy"***  <a href="https://giacomo-romanini.github.io/files/MRZ_BankingPaths.pdf" target="_blank">[draft]</a> **r&r Journal of International Economics**, 
+1. ***"Banking Complexity in the Global Economy"***  <a href="https://giacomo-romanini.github.io/files/MRZ_BankingPaths.pdf" target="_blank">[draft]</a> **r&r Journal of International Economics**,
 *with <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>*
 
 <sup>Presented at *Bank of Italy, Federal Deposit Insurance Corporation, Indiana University, Michigan State University, University of Alicante, University of Essex, Luiss University (Rome), University of Michigan, University of Perugia, 2023 SED meeting, 2023 GEN workshop, 2023 NYU-Petralia Applied Economics Workshop, Varna 2023 Workshop in Applied Macroeconomics, 2022 Midwest Macroeconomics Meeting, 2022 Ventotene Macroeconomics Workshop* </sup>
@@ -35,6 +35,7 @@ efficiency.
 
 2. Global Financial Chains (draft coming soon)
 *with <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>*
+<sup>Presented at *2024 Financial Intermediation Workshop Bank of Italy – EIEF, NBER SI 2024 (scheduled), Luiss University (scheduled), 2024 Money Macro and Finance Annual Conference (scheduled)* </sup>
 
 3. Does JIT production change the network structure of GVCs? Evidence from Italian firms (draft coming soon) 
 *with <a href="https://sites.google.com/carloalberto.org/simona-giglioli/home" target="_blank">Simona Giglioli</a>* 
