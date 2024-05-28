@@ -38,7 +38,7 @@ efficiency.
 
 <sup>Presented at *2024 Financial Intermediation Workshop Bank of Italy – EIEF, NBER SI 2024 (scheduled), Luiss University (scheduled), 2024 Money Macro and Finance Annual Conference (scheduled)* </sup>
 
-4. Does JIT production change the network structure of GVCs? Evidence from Italian firms (draft coming soon) 
+3. Does JIT production change the network structure of GVCs? Evidence from Italian firms (draft coming soon) 
 *with <a href="https://sites.google.com/carloalberto.org/simona-giglioli/home" target="_blank">Simona Giglioli</a>* 
 
 ### Publications
