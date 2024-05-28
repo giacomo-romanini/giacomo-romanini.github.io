@@ -9,7 +9,7 @@ author_profile: true
 
 
 ### Working Papers
-1. ***"Banking Complexity in the Global Economy"***  <a href="https://giacomo-romanini.github.io/files/MRZ_BankingPaths.pdf" target="_blank">[draft]</a> **r&r Journal of International Economics**, \
+1. ***Banking Complexity in the Global Economy***  <a href="https://giacomo-romanini.github.io/files/MRZ_BankingPaths.pdf" target="_blank">[draft]</a> **r&r Journal of International Economics**, \
  *with <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>*
 
 <sup>Presented at *Bank of Italy, Federal Deposit Insurance Corporation, Indiana University, Michigan State University, University of Alicante, University of Essex, Luiss University (Rome), University of Michigan, University of Perugia, 2023 SED meeting, 2023 GEN workshop, 2023 NYU-Petralia Applied Economics Workshop, Varna 2023 Workshop in Applied Macroeconomics, 2022 Midwest Macroeconomics Meeting, 2022 Ventotene Macroeconomics Workshop* </sup>
@@ -33,7 +33,7 @@ shocks. The quantitative analysis reveals that banking complexity can exacerbate
 credit and output instability when countries feature heterogeneous banking
 efficiency.
 
-2. Global Financial Chains (draft coming soon)\
+2. ***Global Financial Chains*** (draft coming soon)\
 *with <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>*
 
 <sup>Presented at *2024 Financial Intermediation Workshop Bank of Italy – EIEF, NBER SI 2024 (scheduled), Luiss University (scheduled), 2024 Money Macro and Finance Annual Conference (scheduled)* </sup>
@@ -43,7 +43,7 @@ efficiency.
 
 ### Publications
 
-  1. ***"Recessions and Recoveries. Multinational Banks in the Business Cycle"*** <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304393220300015" target="_blank">(2021)</a> **Journal of Monetary Economics**,  
+  1. ***Recessions and Recoveries. Multinational Banks in the Business Cycle*** <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304393220300015" target="_blank">(2021)</a> **Journal of Monetary Economics**,  
 *with <a href="https://qingqingcao.weebly.com/" target="_blank">Qingqing Cao</a>, <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://www.lebow.drexel.edu/people/mariaolivero" target="_blank">Maria Pia Olivero</a>*
 
 <p align="center">
