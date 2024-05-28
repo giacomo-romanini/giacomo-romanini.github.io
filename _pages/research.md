@@ -33,7 +33,7 @@ shocks. The quantitative analysis reveals that banking complexity can exacerbate
 credit and output instability when countries feature heterogeneous banking
 efficiency.
 
-2. Global Financial Chains (draft coming soon)
+2. Global Financial Chains (draft coming soon)\
 *with <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>*
 
 <sup>Presented at *2024 Financial Intermediation Workshop Bank of Italy – EIEF, NBER SI 2024 (scheduled), Luiss University (scheduled), 2024 Money Macro and Finance Annual Conference (scheduled)* </sup>
