@@ -12,7 +12,7 @@ author_profile: true
 1. ***Banking Complexity in the Global Economy***  <a href="https://giacomo-romanini.github.io/files/MRZ_BankingPaths.pdf" target="_blank">[draft]</a> *R&R Journal of International Economics*, \
  *with <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>*
 
-    <sup>Presented at *Bank of Italy, Federal Deposit Insurance Corporation, Indiana University, Michigan State University, University of Alicante, University of Essex, Luiss University (Rome), University of Michigan, University of Perugia, 2023 SED meeting, 2023 GEN workshop, 2023 NYU-Petralia Applied Economics Workshop, Varna 2023 Workshop in Applied Macroeconomics, 2022 Midwest Macroeconomics Meeting, 2022 Ventotene Macroeconomics Workshop* </sup>
+    <sup>Presented at *Bank of Italy, Federal Deposit Insurance Corporation, Indiana University, Michigan State University, University of Alicante, University of Essex, Luiss University (Rome), University of Michigan, University of Perugia, 2024 EEA, 2023 SED meeting, 2023 GEN workshop, 2023 NYU-Petralia Applied Economics Workshop, Varna 2023 Workshop in Applied Macroeconomics, 2022 Midwest Macroeconomics Meeting, 2022 Ventotene Macroeconomics Workshop* </sup>
 
     <p align="center">
     <img src="https://github.com/giacomo-romanini/giacomo-romanini.github.io/blob/master/images/Complexity.png?raw=true" alt="drawing" align="center" width="50%"/>
@@ -24,7 +24,7 @@ author_profile: true
 2. ***Global Financial Chains*** (draft coming soon)\
 *with <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>*
 
-    <sup>Presented at *2024 Financial Intermediation Workshop Bank of Italy – EIEF, NBER SI 2024 (scheduled), Luiss University (scheduled), 2024 Money Macro and Finance Annual Conference (scheduled)* </sup>
+    <sup>Presented at *2024 Financial Intermediation Workshop Bank of Italy – EIEF, NBER SI 2024 (scheduled), Luiss Business School, 2024 Money Macro and Finance Annual Conference (scheduled), 2024 RSA (scheduled), 2024 Global Research Forum on International Macroeconomics and Finance (scheduled)* </sup>
 
 3. Does JIT production change the network structure of GVCs? Evidence from Italian firms (draft coming soon) 
 *with <a href="https://sites.google.com/carloalberto.org/simona-giglioli/home" target="_blank">Simona Giglioli</a>* 
