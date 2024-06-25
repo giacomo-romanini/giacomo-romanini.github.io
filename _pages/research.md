@@ -11,7 +11,7 @@ author_profile: true
 ### Working Papers
 1. ***Banking Complexity in the Global Economy***  \
  *with <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>* \
- R&R Journal of International Economics <a href="https://giacomo-romanini.github.io/files/MRZ_BankingPaths.pdf" target="_blank">[draft]</a> ,
+ R&R Journal of International Economics <a href="https://giacomo-romanini.github.io/files/MRZ_BankingPaths.pdf" target="_blank">[draft]</a> 
 
     <sup>Presented at *Bank of Italy, Federal Deposit Insurance Corporation, Indiana University, Michigan State University, University of Alicante, University of Essex, Luiss University (Rome), University of Michigan, University of Perugia, 2024 EEA annaul conference, 2023 SED meeting, 2023 GEN workshop, 2023 NYU-Petralia Applied Economics Workshop, Varna 2023 Workshop in Applied Macroeconomics, 2022 Midwest Macroeconomics Meeting, 2022 Ventotene Macroeconomics Workshop* </sup>
 
