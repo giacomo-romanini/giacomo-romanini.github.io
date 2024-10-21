@@ -32,7 +32,7 @@ author_profile: true
 
 ### Publications
 
-  1. ***Recessions and Recoveries. Multinational Banks in the Business Cycle*** ,   Journal of Monetary Economics <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304393220300015" target="_blank">(2021)</a> \
+  1. ***Recessions and Recoveries. Multinational Banks in the Business Cycle*** (2021), <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304393220300015" target="_blank"> Journal of Monetary Economics</a> ,  \
 *with <a href="https://qingqingcao.weebly.com/" target="_blank">Qingqing Cao</a>, <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://www.lebow.drexel.edu/people/mariaolivero" target="_blank">Maria Pia Olivero</a>* 
 
 
