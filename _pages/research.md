@@ -28,6 +28,9 @@ International lending flows are often intermediated through banking hubs and com
 
 The use of global financial hubs and tax havens to move capital internationally obfuscates ultimate international investment positions in available data. We provide a partial equilibrium network model of global capital positions where capital can be sent indirectly from origin to destination through one or multiple third countries (chains) in a manner which minimizes transaction costs. The model can be embedded in common classes of international finance general equilibrium models. We use the model to microfound the algorithmic restatement procedure in Coppola, Maggiori, Neiman, and Schreger (2021) and obtain conditions under which the empirical chains of asset holdings recover the ultimate underlying bilateral positions. We then estimate our model relaxing those conditions. We generate an enlarged matrix of bilateral restatements as well as a cost matrix that underpins these holdings. Our findings confirm the role of tax havens in international financial transactions and augment the recharacterization of China’s net positive position. Our results uncover a substantial intermediation role for the United States and the United Kingdom and allows us to identify the ultimate owners of investments ostensibly originating in tax haven countries. The implicit cost matrix we recover exhibits a strong gravity relationship. Our estimation produces four data products: a restated matrix of global capital positions, a matrix of bilateral transfer costs, a matrix of bilateral network transfer costs, and an enlarged version of the IMF Coordinated Portfolio Investment Survey (CPIS).
 
+
+---
+
 3. Does JIT production change the network structure of GVCs? Evidence from Italian firms (draft coming soon) \
 *with <a href="https://sites.google.com/carloalberto.org/simona-giglioli/home" target="_blank">Simona Giglioli</a>* 
 
