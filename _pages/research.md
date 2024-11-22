@@ -23,7 +23,7 @@ International lending flows are often intermediated through banking hubs and com
 2. ***Global Financial Chains*** (draft and data coming soon)\
 *with <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>*
 
-    <sup>Presented at *2024 Financial Intermediation Workshop Bank of Italy – EIEF, NBER SI 2024, Luiss Business School, 2024 Global Research Forum on International Macroeconomics and Finance (scheduled)* </sup>
+    <sup>Presented at *2024 Financial Intermediation Workshop Bank of Italy – EIEF, NBER SI 2024, Luiss Business School, 2024 ECB-FRB-FRBNY Global Research Forum on International Macroeconomics and Finance* </sup>
 
 3. Does JIT production change the network structure of GVCs? Evidence from Italian firms (draft coming soon) \
 *with <a href="https://sites.google.com/carloalberto.org/simona-giglioli/home" target="_blank">Simona Giglioli</a>* 
