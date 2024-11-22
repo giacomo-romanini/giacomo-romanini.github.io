@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Research Economist at the Bank of Italy.
+I am a Senior Research Economist at the Bank of Italy.
 
 I hold a Ph.D. in Economics from Michigan State University.
 
