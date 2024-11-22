@@ -10,30 +10,13 @@ author_profile: true
 
 ### Working Papers
 ---
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+***Banking Complexity in the Global Economy***,   R&R Journal of International Economics <a href="https://giacomo-romanini.github.io/files/MRZ_BankingPaths.pdf" target="_blank">[draft]</a>  \
+ *with <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>* 
 
-<div style="flex: 2;">
-<strong>1. <em>Banking Complexity in the Global Economy</em></strong>  
-R&R Journal of International Economics [<sup>draft</sup>](https://giacomo-romanini.github.io/files/MRZ_BankingPaths.pdf)  
-*with [Raoul Minetti](https://raoulminetti.weebly.com/), [Oren Ziv](https://orenziv.org/)*  
+<sup>Presented at *Bank of Italy, Federal Deposit Insurance Corporation, Indiana University, Michigan State University, University of Alicante, University of Essex, Luiss University (Rome), University of Michigan, University of Perugia, 2023 SED meeting, 2023 GEN workshop, 2023 NYU-Petralia Applied Economics Workshop, Varna 2023 Workshop in Applied Macroeconomics, 2022 Midwest Macroeconomics Meeting, 2022 Ventotene Macroeconomics Workshop* </sup>
 
-Presented at *Bank of Italy, Federal Deposit Insurance Corporation, Indiana University, Michigan State University,  
-University of Alicante, University of Essex, Luiss University (Rome), University of Michigan,  
-University of Perugia, 2023 SED meeting, 2023 GEN workshop, 2023 NYU-Petralia Applied Economics Workshop,  
-Varna 2023 Workshop in Applied Macroeconomics, 2022 Midwest Macroeconomics Meeting, 2022 Ventotene Macroeconomics Workshop*
-
-<p>International lending flows are often intermediated through banking hubs and complex multi-national routing. We develop a dynamic stochastic general equilibrium model where global banks choose the path of direct or indirect lending through partner institutions in multiple countries.</p>
-
-<p>We show how conflating locational loan flows with ultimate lending biases results both by attributing ultimate lending to banking hubs, and by missing ultimate lending that occurs indirectly via third countries.</p>
-
-<p>We next study the effects of global banking complexity. Indirect lending allows countries to bypass shocked lending routes via alternative countries; however, it dilutes their ability to diversify sources of funds after shocks. The quantitative analysis reveals that banking complexity can exacerbate credit and output instability when countries feature heterogeneous banking efficiency.</p>
-</div>
-
-<div style="flex: 1;">
-<img src="https://github.com/giacomo-romanini/giacomo-romanini.github.io/blob/master/images/Complexity.png?raw=true" alt="Complexity illustration" style="width: 100%; max-width: 300px; border-radius: 5px;">
-</div>
-
-</div>
+ <img img align="right" src="https://github.com/giacomo-romanini/giacomo-romanini.github.io/blob/master/images/Complexity.png?raw=true" alt="drawing" width="50%"/>
+International lending flows are often intermediated through banking hubs and complex multi-national routing. We develop a dynamic stochastic general equilibrium model where global banks choose the path of direct or indirect lending through partner institutions in multiple countries. We show how conflating locational loan flows with ultimate lending biases results both by attributing ultimate lending to banking hubs, and by missing ultimate lending that occurs indirectly via third countries. We next study the effects of global banking complexity. Indirect lending allows countries to bypass shocked lending routes via alternative countries; however, it dilutes their ability to diversify sources of funds after shocks. The quantitative analysis reveals that banking complexity can exacerbate credit and output instability when countries feature heterogeneous banking efficiency. 
 
 ---
 
