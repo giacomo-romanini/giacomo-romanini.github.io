@@ -18,12 +18,14 @@ author_profile: true
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
-<div style="flex: 1;">
+<div style="flex: 2;">
+
 <p>International lending flows are often intermediated through banking hubs and complex multi-national routing. We develop a dynamic stochastic general equilibrium model where global banks choose the path of direct or indirect lending through partner institutions in multiple countries. We show how conflating locational loan flows with ultimate lending biases results both by attributing ultimate lending to banking hubs, and by missing ultimate lending that occurs indirectly via third countries. We next study the effects of global banking complexity. Indirect lending allows countries to bypass shocked lending routes via alternative countries; however, it dilutes their ability to diversify sources of funds after shocks. The quantitative analysis reveals that banking complexity can exacerbate credit and output instability when countries feature heterogeneous banking efficiency.</p>
+
 </div>
 
-<div style="flex: 1; text-align: right;">
-<img src="https://github.com/giacomo-romanini/giacomo-romanini.github.io/blob/master/images/Complexity.png?raw=true" alt="drawing" width="600" height="500" style="border-radius: 5px;">
+<div style="flex: 1;">
+<img src="https://github.com/giacomo-romanini/giacomo-romanini.github.io/blob/master/images/Complexity.png?raw=true" alt="drawing" width="600" height="500" style="max-width: 100%; border-radius: 5px;">
 </div>
 
 </div>
