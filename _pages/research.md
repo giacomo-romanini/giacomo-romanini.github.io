@@ -64,13 +64,13 @@ How does the expansion of multinational banks influence the business cycle of ho
 
 ### Discussions
 
-"Trade Intermediation and Resilience in Global Sourcing", by Oscar Perelló
+"Trade Intermediation and Resilience in Global Sourcing", by Perelló \
 _2024 BdI, ECB, WB workshop on "Trade, value chains and financial linkages in the global economy"_ 
 
-"The Ripple Effect: Supply Chain Reconfigurations and Cross-border Credit Dynamics"
+"The Ripple Effect: Supply Chain Reconfigurations and Cross-border Credit Dynamics", by Correa, Fabiani, Ossandon, Sarmiento \
 _2024 10th Annual Banking Research Network Workshop_
 
-"A Sufficient Statistics Approach for Endogenous Production Networks: Theory and Evidence from Ukraine’s War", by Korovkin, Makarin, Miyauchi 
+"A Sufficient Statistics Approach for Endogenous Production Networks: Theory and Evidence from Ukraine’s War", by Korovkin, Makarin, Miyauchi  \
 _2023 BdI, ECB, WB workshop on "Trade, value chains and financial linkages in the global economy"_ 
 
 
