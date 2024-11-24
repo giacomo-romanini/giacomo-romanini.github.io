@@ -60,6 +60,20 @@ Does JIT production change the network structure of GVCs? Evidence from Italian 
 
 How does the expansion of multinational banks influence the business cycle of host countries? We study an economy where multinational banks can transfer liquidity across borders through internal capital markets but are hindered in their allocation of liquidity by limited knowledge of local firms’ assets. We find that, following domestic banking shocks, multinational banks moderate the depth of the contraction but slow down the recovery. A calibration to Polish data suggests that multinational banks reduce the average depth of recessions by about 5% but increase their duration by 10%. The predictions are broadly consistent with evidence from a large panel of countries.
 
----
+<hr style="border:2px solid gray">
+
+### Discussions
+
+"Trade Intermediation and Resilience in Global Sourcing", by Oscar Perelló
+_2024 BdI, ECB, WB workshop on "Trade, value chains and financial linkages in the global economy"_ 
+
+"The Ripple Effect: Supply Chain Reconfigurations and Cross-border Credit Dynamics"
+_2024 10th Annual Banking Research Network Workshop_
+
+"A Sufficient Statistics Approach for Endogenous Production Networks: Theory and Evidence from Ukraine’s War", by Korovkin, Makarin, Miyauchi 
+_2023 BdI, ECB, WB workshop on "Trade, value chains and financial linkages in the global economy"_ 
+
+
+
 
 
