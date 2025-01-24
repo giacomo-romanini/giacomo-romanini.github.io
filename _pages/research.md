@@ -10,7 +10,7 @@ author_profile: true
 
 ### Working Papers
 ---
-***Banking Complexity in the Global Economy***,  (2025) Journal of International Economics <a href="https://www.sciencedirect.com/science/article/abs/pii/S002219962500011X" target="_blank">[draft]</a>  \
+***Banking Complexity in the Global Economy***,  (2025)  <a href="https://www.sciencedirect.com/science/article/abs/pii/S002219962500011X" target="_blank">[Journal of International Economics]</a>  \
  *with <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>* 
 
 <sup>Presented at *Bank of Italy, Federal Deposit Insurance Corporation, Indiana University, Michigan State University, University of Alicante, University of Essex, Luiss University (Rome), University of Michigan, University of Perugia, 2023 SED meeting, 2023 GEN workshop, 2023 NYU-Petralia Applied Economics Workshop, Varna 2023 Workshop in Applied Macroeconomics, 2022 Midwest Macroeconomics Meeting, 2022 Ventotene Macroeconomics Workshop* </sup>
