@@ -9,7 +9,31 @@ author_profile: true
 
 
 ### Working Papers
+
 ---
+
+***Global Financial Chains*** \
+*with <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>*
+
+<sup>Presented at *2024 Financial Intermediation Workshop Bank of Italy – EIEF, NBER SI 2024, Luiss Business School, 2024 ECB-FRB-FRBNY Global Research Forum on International Macroeconomics and Finance* </sup>
+
+The use of global financial hubs and tax havens to move capital internationally obfuscates ultimate international investment positions in available data. We provide a partial equilibrium network model of global capital positions where capital can be sent indirectly from origin to destination through one or multiple third countries (chains) in a manner which minimizes transaction costs. The model can be embedded in common classes of international finance general equilibrium models. We use the model to microfound the algorithmic restatement procedure in Coppola, Maggiori, Neiman, and Schreger (2021) and obtain conditions under which the empirical chains of asset holdings recover the ultimate underlying bilateral positions. We then estimate our model relaxing those conditions. We generate an enlarged matrix of bilateral restatements as well as a cost matrix that underpins these holdings. Our findings confirm the role of tax havens in international financial transactions and augment the recharacterization of China’s net positive position. Our results uncover a substantial intermediation role for the United States and the United Kingdom and allows us to identify the ultimate owners of investments ostensibly originating in tax haven countries. The implicit cost matrix we recover exhibits a strong gravity relationship. Our estimation produces four data products: a restated matrix of global capital positions, a matrix of bilateral transfer costs, a matrix of bilateral network transfer costs, and an enlarged version of the IMF Coordinated Portfolio Investment Survey (CPIS).
+
+---
+
+Fragmentation and the future of GVCs \
+*with  <a href="https://fpconteduca.com/" target="_blank">Francesco Paolo Conteduca</a>, Michele Mancini, <a href="https://sites.google.com/carloalberto.org/simona-giglioli/home" target="_blank">Simona Giglioli</a>, Alessandro Borin, Enrica Di Stefano, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier* 
+
+
+---
+
+Does JIT production change the network structure of GVCs? Evidence from Italian firms (draft coming soon) \
+*with <a href="https://sites.google.com/carloalberto.org/simona-giglioli/home" target="_blank">Simona Giglioli</a>* 
+
+<hr style="border:2px solid gray">
+
+### Publications
+
 ***Banking Complexity in the Global Economy***,  (2025)  <a href="https://www.sciencedirect.com/science/article/abs/pii/S002219962500011X" target="_blank">Journal of International Economics</a>  \
  *with <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>* 
 
@@ -29,26 +53,6 @@ author_profile: true
 </div>
 
 </div>
-
----
-
-***Global Financial Chains*** (draft and data coming soon)\
-*with <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>*
-
-<sup>Presented at *2024 Financial Intermediation Workshop Bank of Italy – EIEF, NBER SI 2024, Luiss Business School, 2024 ECB-FRB-FRBNY Global Research Forum on International Macroeconomics and Finance* </sup>
-
-The use of global financial hubs and tax havens to move capital internationally obfuscates ultimate international investment positions in available data. We provide a partial equilibrium network model of global capital positions where capital can be sent indirectly from origin to destination through one or multiple third countries (chains) in a manner which minimizes transaction costs. The model can be embedded in common classes of international finance general equilibrium models. We use the model to microfound the algorithmic restatement procedure in Coppola, Maggiori, Neiman, and Schreger (2021) and obtain conditions under which the empirical chains of asset holdings recover the ultimate underlying bilateral positions. We then estimate our model relaxing those conditions. We generate an enlarged matrix of bilateral restatements as well as a cost matrix that underpins these holdings. Our findings confirm the role of tax havens in international financial transactions and augment the recharacterization of China’s net positive position. Our results uncover a substantial intermediation role for the United States and the United Kingdom and allows us to identify the ultimate owners of investments ostensibly originating in tax haven countries. The implicit cost matrix we recover exhibits a strong gravity relationship. Our estimation produces four data products: a restated matrix of global capital positions, a matrix of bilateral transfer costs, a matrix of bilateral network transfer costs, and an enlarged version of the IMF Coordinated Portfolio Investment Survey (CPIS).
-
-
----
-
-Does JIT production change the network structure of GVCs? Evidence from Italian firms (draft coming soon) \
-*with <a href="https://sites.google.com/carloalberto.org/simona-giglioli/home" target="_blank">Simona Giglioli</a>* 
-
-<hr style="border:2px solid gray">
-
-### Publications
-
 ---
 ***Recessions and Recoveries. Multinational Banks in the Business Cycle*** (2021), <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304393220300015" target="_blank"> Journal of Monetary Economics</a>  \
 *with <a href="https://qingqingcao.weebly.com/" target="_blank">Qingqing Cao</a>, <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://www.lebow.drexel.edu/people/mariaolivero" target="_blank">Maria Pia Olivero</a>* 
