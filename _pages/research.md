@@ -21,9 +21,10 @@ The use of global financial hubs and tax havens to move capital internationally 
 
 ---
 
-Fragmentation and the future of GVCs \
+***Fragmentation and the future of GVCs*** \
 *with  <a href="https://fpconteduca.com/" target="_blank">Francesco Paolo Conteduca</a>, Michele Mancini, <a href="https://sites.google.com/carloalberto.org/simona-giglioli/home" target="_blank">Simona Giglioli</a>, Alessandro Borin, Enrica Di Stefano, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier* 
 
+Recent shocks and policy trends -- including the weaponization of supply chains and measures to enhance national security and protect strategic sectors -- have triggered a deep reorganization of international trade, particularly along geopolitical fault lines. This paper assesses how escalating trade restrictions between a Western US-centric bloc and an Eastern China-centric bloc — particularly those targeting products with a high risk of weaponization — affect supply chains, trade dependencies, and economic activity. To capture ex ante the impact of these targeted trade restrictions within a general equilibrium framework, we construct customized input-output tables that reflect the selective nature of these interventions. We find that trade fragmentation would produce significant global welfare and trade losses, despite the targeted shock. We then provide a detailed analysis of how global value chains and trade dependencies would adjust across countries and sectors in response to such shocks. While overall trade integration would be broadly unaffected, global value chains would become more regionalized, complex, and harder to monitor. Neutral countries would play a growing role into GVCs, especially as connectors between rival blocs. While direct dependencies would decline, indirect dependencies would be stronger.
 
 ---
 
