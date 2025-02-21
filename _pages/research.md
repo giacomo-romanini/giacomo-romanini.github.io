@@ -28,7 +28,7 @@ Recent shocks and policy trends -- including the weaponization of supply chains 
 
 ---
 
-Does JIT production change the network structure of GVCs? Evidence from Italian firms (draft coming soon) \
+Does JIT production change the network structure of GVCs? Evidence from Italian firms  \
 *with <a href="https://sites.google.com/carloalberto.org/simona-giglioli/home" target="_blank">Simona Giglioli</a>* 
 
 <hr style="border:2px solid gray">
