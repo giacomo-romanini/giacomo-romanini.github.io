@@ -35,7 +35,7 @@ Does JIT production change the network structure of GVCs? Evidence from Italian 
 
 ### Publications
 
-*Banking Complexity in the Global Economy*  (2025) **Journal of International Economics** [<a href="https://www.sciencedirect.com/science/article/abs/pii/S002219962500011X" target="_blank">paper</a>] [<a href="https://www.bancaditalia.it/pubblicazioni/temi-discussione/2025/2025-1485/index.html?com.dotmarketing.htmlpage.language=1" target="_blank">wp</a> ]  \
+*Banking Complexity in the Global Economy*  (2025) **Journal of International Economics** [<a href="https://www.sciencedirect.com/science/article/abs/pii/S002219962500011X" target="_blank">paper</a>] [<a href="https://www.bancaditalia.it/pubblicazioni/temi-discussione/2025/2025-1485/index.html?com.dotmarketing.htmlpage.language=1" target="_blank">wp</a>]  \
  *with <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>* 
 
 
@@ -55,7 +55,7 @@ Does JIT production change the network structure of GVCs? Evidence from Italian 
 
 ---
 
-*Recessions and Recoveries. Multinational Banks in the Business Cycle* (2021), **Journal of Monetary Economics** [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304393220300015" target="_blank">paper</a>]  \
+*Recessions and Recoveries. Multinational Banks in the Business Cycle* (2021) **Journal of Monetary Economics** [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304393220300015" target="_blank">paper</a>]  \
 *with <a href="https://qingqingcao.weebly.com/" target="_blank">Qingqing Cao</a>, <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://www.lebow.drexel.edu/people/mariaolivero" target="_blank">Maria Pia Olivero</a>* 
 
 
