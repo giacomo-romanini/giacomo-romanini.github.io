@@ -15,7 +15,8 @@ My research interests are International Banking and International Trade, with an
 
 Here's my <a href="https://giacomo-romanini.github.io/files/CV_Romanini.pdf" target="_blank">Curriculum Vitae</a>
 
- 
+--
+
 ### Working Papers
 
 ***Global Financial Chains*** \
@@ -26,6 +27,7 @@ Here's my <a href="https://giacomo-romanini.github.io/files/CV_Romanini.pdf" tar
 ***Fragmentation and the future of GVCs*** [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0932/index.html?com.dotmarketing.htmlpage.language=1" target="_blank"> submitted </a>] \
 *with  <a href="https://fpconteduca.com/" target="_blank">Francesco Paolo Conteduca</a>, Michele Mancini, <a href="https://sites.google.com/carloalberto.org/simona-giglioli/home" target="_blank">Simona Giglioli</a>, Alessandro Borin, Enrica Di Stefano, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier* 
 
+--
 
 ### Publications
 
@@ -36,11 +38,14 @@ Here's my <a href="https://giacomo-romanini.github.io/files/CV_Romanini.pdf" tar
 *Recessions and Recoveries. Multinational Banks in the Business Cycle* (2021) **Journal of Monetary Economics** [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304393220300015" target="_blank">paper</a>]  \
 *with <a href="https://qingqingcao.weebly.com/" target="_blank">Qingqing Cao</a>, <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://www.lebow.drexel.edu/people/mariaolivero" target="_blank">Maria Pia Olivero</a>* 
 
+--
 
 ### Work in progress
 
 Does JIT production change the network structure of GVCs? Evidence from Italian firms  \
 *with <a href="https://sites.google.com/carloalberto.org/simona-giglioli/home" target="_blank">Simona Giglioli</a>* 
+
+--
 
 ### Discussions
 
