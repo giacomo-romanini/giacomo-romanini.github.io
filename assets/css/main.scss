@@ -39,5 +39,49 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+/* Primary scoped avatar class (preferred) */
+.about-avatar,
+.about-avatar img {
+  display: inline-block !important;
+  width: clamp(72px, 20vw, 220px) !important; /* phone -> desktop */
+  height: auto !important;
+  aspect-ratio: 1 / 1 !important;
+  border-radius: 9999px !important; /* full circle */
+  overflow: hidden !important;
+  object-fit: cover !important;
+  -o-object-fit: cover !important;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08) !important;
+  border: 3px solid #ffffff !important;
+  background-color: #f8f8f8 !important;
+}
 
+/* Ensure the inner image fills the container */
+.about-avatar img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  display: block !important;
+}
+
+/* Defensive: also override theme author avatar classes if the about page uses those */
+.author-profile .avatar,
+.author-profile .author-avatar,
+.author-profile img,
+.avatar,
+img.avatar,
+img[src*="avatar"].portrait,
+img[src*="avatar.jpg"],
+img[src*="avatar.png"] {
+  border-radius: 9999px !important;
+  object-fit: cover !important;
+}
+
+/* Dark mode border tweak */
+@media (prefers-color-scheme: dark) {
+  .about-avatar,
+  .author-profile .avatar,
+  .author-profile img {
+    border-color: rgba(34,34,34,0.85) !important;
+  }
+}
 
