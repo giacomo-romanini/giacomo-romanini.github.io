@@ -26,7 +26,7 @@ Here's my <a href="https://giacomo-romanini.github.io/files/CV_Romanini.pdf" tar
 <sup>Presented at *2024 Financial Intermediation Workshop Bank of Italy – EIEF, NBER SI 2024, Luiss Business School, 2024 ECB-FRB-FRBNY Global Research Forum on International Macroeconomics and Finance* </sup>
 
 ***Fragmentation and the future of GVCs*** [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0932/index.html?com.dotmarketing.htmlpage.language=1" target="_blank"> submitted </a>] \
-*with  <a href="https://fpconteduca.com/" target="_blank">Francesco Paolo Conteduca</a>, Michele Mancini, <a href="https://sites.google.com/carloalberto.org/simona-giglioli/home" target="_blank">Simona Giglioli</a>, Alessandro Borin, Enrica Di Stefano, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier* 
+*with  <a href="https://fpconteduca.com/" target="_blank">Francesco Paolo Conteduca</a>, Michele Mancini, <a href="https://sites.google.com/carloalberto.org/simona-giglioli/home" target="_blank">Simona Giglioli</a>, Alessandro Borin, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier* 
 
 ---
 
