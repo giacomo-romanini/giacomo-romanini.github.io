@@ -16,7 +16,7 @@ My research interests are International Banking and International Trade, with an
 Here's my <a href="https://giacomo-romanini.github.io/files/CV_Romanini.pdf" target="_blank">Curriculum Vitae</a>
 
 
-### Working Papers
+<p style="text-align: center;">### Working Papers</p> 
 
 ***Global Financial Chains*** \
 *with <a href="https://raoulminetti.weebly.com/" target="_blank">Raoul Minetti</a>, <a href="https://orenziv.org/" target="_blank">Oren Ziv</a>*
