@@ -18,4 +18,3 @@ My research interests are International Banking and International Trade, with an
 
 Here's my <a href="https://giacomo-romanini.github.io/files/CV_Romanini.pdf" target="_blank">Curriculum Vitae</a>
 
-![title](images/profile.jpg)
