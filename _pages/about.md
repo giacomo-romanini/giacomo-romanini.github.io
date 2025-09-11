@@ -39,27 +39,6 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
 </div>
 <p class="page-intro">Here's my <a class="paper-link" href="https://giacomo-romanini.github.io/files/CV_Romanini.pdf" target="_blank" rel="noopener">Curriculum Vitae</a></p>
 
-<hr class="section">
-
-<div class="section">
-  <div class="section-title">Working Papers</div>
-  <ul class="list-tight">
-    <li>
-      <span class="paper-title">Global Financial Chains</span><br>
-      <span class="paper-meta">with Raoul Minetti, Oren Ziv</span><br>
-      <sup class="presented">Presented at 2024 Financial Intermediation Workshop Bank of Italy – EIEF; NBER SI 2024; Luiss Business School; 2024 ECB–FRB–FRBNY Global Research Forum on International Macroeconomics and Finance; EEA 2025 Congress.</sup>
-    </li>
-    <li>
-      <span class="paper-title">Fragmentation and the Future of GVCs</span><br>
-      <span class="paper-meta">with Francesco Paolo Conteduca, Michele Mancini, Simona Giglioli, Alessandro Borin, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier</span><br>
-      <a class="paper-link" href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0932/index.html?com.dotmarketing.htmlpage.language=1" target="_blank" rel="noopener">submitted</a>
-    </li>
-  </ul>
-</div>
-
-
-  </div>
-</div>
 
 <hr class="section">
 
@@ -100,6 +79,32 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
     </li>
   </ul>
 </div>
+
+
+
+<hr class="section">
+
+<div class="section">
+  <div class="section-title">Working Papers</div>
+  <ul class="list-tight">
+    <li>
+      <span class="paper-title">Global Financial Chains</span><br>
+      <span class="paper-meta">with Raoul Minetti, Oren Ziv</span><br>
+      <sup class="presented">Presented at 2024 Financial Intermediation Workshop Bank of Italy – EIEF; NBER SI 2024; Luiss Business School; 2024 ECB–FRB–FRBNY Global Research Forum on International Macroeconomics and Finance; EEA 2025 Congress.</sup>
+    </li>
+    <li>
+      <span class="paper-title">Fragmentation and the Future of GVCs</span><br>
+      <span class="paper-meta">with Francesco Paolo Conteduca, Michele Mancini, Simona Giglioli, Alessandro Borin, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier</span><br>
+      <a class="paper-link" href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0932/index.html?com.dotmarketing.htmlpage.language=1" target="_blank" rel="noopener">submitted</a>
+    </li>
+  </ul>
+</div>
+
+
+  </div>
+</div>
+
+
 
 <hr class="section">
 
