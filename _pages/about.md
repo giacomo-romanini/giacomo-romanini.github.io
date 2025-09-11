@@ -68,18 +68,6 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
   </div>
 </div>
 
-<hr class="section">
-
-<div class="section">
-  <div class="section-title">Work in Progress</div>
-  <ul class="list-tight">
-    <li>
-      <span class="paper-title">Does JIT production change the network structure of GVCs? Evidence from Italian firms</span>
-      <div class="paper-meta">with Simona Giglioli</div>
-    </li>
-  </ul>
-</div>
-
 
 
 <hr class="section">
@@ -102,6 +90,19 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
 
 
   </div>
+</div>
+
+
+<hr class="section">
+
+<div class="section">
+  <div class="section-title">Work in Progress</div>
+  <ul class="list-tight">
+    <li>
+      <span class="paper-title">Does JIT production change the network structure of GVCs? Evidence from Italian firms</span>
+      <div class="paper-meta">with Simona Giglioli</div>
+    </li>
+  </ul>
 </div>
 
 
