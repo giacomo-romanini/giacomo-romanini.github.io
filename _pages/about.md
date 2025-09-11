@@ -65,11 +65,6 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
 </div>
 
 
-  </div>
-</div>
-
-
-
 <hr class="section">
 
 <div class="section">
@@ -86,10 +81,6 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
       <a class="paper-link" href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0932/index.html?com.dotmarketing.htmlpage.language=1" target="_blank" rel="noopener">submitted</a>
     </li>
   </ul>
-</div>
-
-
-  </div>
 </div>
 
 
