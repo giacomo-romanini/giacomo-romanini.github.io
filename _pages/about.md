@@ -23,7 +23,7 @@ Here's my <a href="https://giacomo-romanini.github.io/files/CV_Romanini.pdf" tar
 ***Global Financial Chains*** \
 *with Raoul Minetti, Oren Ziv*
 
-<sup>Presented at *2024 Financial Intermediation Workshop Bank of Italy – EIEF, NBER SI 2024, Luiss Business School, 2024 ECB-FRB-FRBNY Global Research Forum on International Macroeconomics and Finance* </sup>
+<sup>Presented at *2024 Financial Intermediation Workshop Bank of Italy – EIEF, NBER SI 2024, Luiss Business School, 2024 ECB-FRB-FRBNY Global Research Forum on International Macroeconomics and Finance, EEA 2025 Congress* </sup>
 
 ***Fragmentation and the future of GVCs*** [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0932/index.html?com.dotmarketing.htmlpage.language=1" target="_blank"> submitted </a>] \
 *with  Francesco Paolo Conteduca, Michele Mancini, Simona Giglioli, Alessandro Borin, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier* 
