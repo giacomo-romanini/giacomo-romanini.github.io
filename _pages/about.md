@@ -54,9 +54,8 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
       <span class="paper-meta">with Raoul Minetti, Oren Ziv</span>
     </li>
     <li>
-      <span class="paper-title">Recessions and Recoveries: Multinational Banks in the Business Cycle</span>
+      <span class="paper-title"> <a class="paper-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0304393220300015" target="_blank" rel="noopener">Recessions and Recoveries: Multinational Banks in the Business Cycle</a></span>
       <span class="paper-meta">(2021) <strong>Journal of Monetary Economics</strong></span><br>
-      <a class="paper-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0304393220300015" target="_blank" rel="noopener">paper</a><br>
       <span class="paper-meta">with Qingqing Cao, Raoul Minetti, Maria Pia Olivero</span>
     </li>
   </ul>
