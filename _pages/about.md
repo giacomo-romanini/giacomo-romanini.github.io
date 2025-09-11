@@ -57,13 +57,7 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
   </ul>
 </div>
 
-    <div class="card">
-      <div class="paper-title">Fragmentation and the Future of GVCs</div>
-      <div class="paper-meta">with Francesco Paolo Conteduca, Michele Mancini, Simona Giglioli, Alessandro Borin, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier</div>
-      <div style="margin-top:.35rem">
-        <a class="paper-link" href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0932/index.html?com.dotmarketing.htmlpage.language=1" target="_blank" rel="noopener">submitted</a>
-      </div>
-    </div>
+
   </div>
 </div>
 
@@ -91,14 +85,7 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
   </ul>
 </div>
 
-    <div class="card">
-      <div class="paper-title">Recessions and Recoveries: Multinational Banks in the Business Cycle</div>
-      <div class="paper-meta">(2021) <strong>Journal of Monetary Economics</strong></div>
-      <div style="margin-top:.35rem">
-        <a class="paper-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0304393220300015" target="_blank" rel="noopener">paper</a>
-      </div>
-      <div class="paper-meta" style="margin-top:.25rem">with Qingqing Cao, Raoul Minetti, Maria Pia Olivero</div>
-    </div>
+
   </div>
 </div>
 
