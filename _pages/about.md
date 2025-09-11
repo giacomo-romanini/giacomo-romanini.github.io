@@ -16,7 +16,7 @@ My research interests are International Banking and International Trade, with an
 
 Here's my <a href="https://giacomo-romanini.github.io/files/CV_Romanini.pdf" target="_blank">Curriculum Vitae</a>
 
----
+<hr style="border:2px solid gray">
 
 ### Working Papers
 
@@ -28,7 +28,7 @@ Here's my <a href="https://giacomo-romanini.github.io/files/CV_Romanini.pdf" tar
 ***Fragmentation and the future of GVCs*** [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0932/index.html?com.dotmarketing.htmlpage.language=1" target="_blank"> submitted </a>] \
 *with  Francesco Paolo Conteduca, Michele Mancini, Simona Giglioli, Alessandro Borin, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier* 
 
----
+<hr style="border:2px solid gray">
 
 ### Publications
 
@@ -39,14 +39,16 @@ Here's my <a href="https://giacomo-romanini.github.io/files/CV_Romanini.pdf" tar
 *Recessions and Recoveries. Multinational Banks in the Business Cycle* (2021) **Journal of Monetary Economics** [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304393220300015" target="_blank">paper</a>]  \
 *with Qingqing Cao, Raoul Minetti, Maria Pia Olivero* 
 
----
+<hr style="border:2px solid gray">
+
 
 ### Work in progress
 
 Does JIT production change the network structure of GVCs? Evidence from Italian firms  \
 *with Simona Giglioli</a>* 
 
----
+<hr style="border:2px solid gray">
+
 
 ### Discussions
 
