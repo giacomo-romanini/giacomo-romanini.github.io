@@ -46,10 +46,8 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
   <div class="section-title">Publications</div>
   <ul class="list-tight">
     <li>
-      <span class="paper-title">Banking Complexity in the Global Economy</span>
+      <span class="paper-title"> <a class="paper-link" href="https://www.sciencedirect.com/science/article/abs/pii/S002219962500011X" target="_blank" rel="noopener">Banking Complexity in the Global Economy</a></span>
       <span class="paper-meta">(2025) <strong>Journal of International Economics</strong></span><br>
-      <a class="paper-link" href="https://www.sciencedirect.com/science/article/abs/pii/S002219962500011X" target="_blank" rel="noopener">paper</a>
-      &nbsp;·&nbsp;
       <span class="paper-meta">also circulated as</span>
       &nbsp;
       <a class="paper-link" href="https://www.bancaditalia.it/pubblicazioni/temi-discussione/2025/2025-1485/index.html?com.dotmarketing.htmlpage.language=1" target="_blank" rel="noopener">The Network Gravity of Global Banking</a><br>
