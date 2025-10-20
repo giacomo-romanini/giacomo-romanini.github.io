@@ -70,7 +70,7 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
     <li>
       <span class="paper-title">Global Financial Chains</span><br>
       <span class="paper-meta">with Raoul Minetti, Oren Ziv</span><br>
-      <sup class="presented">Presented at 2024 Financial Intermediation Workshop Bank of Italy – EIEF; NBER SI 2024; Luiss Business School; 2024 ECB–FRB–FRBNY Global Research Forum on International Macroeconomics and Finance; EEA 2025 Congress.</sup>
+      <sup class="presented">Presented at 2024 Financial Intermediation Workshop Bank of Italy – EIEF; NBER SI 2024; Luiss Business School; 2024 ECB–FRB–FRBNY Global Research Forum on International Macroeconomics and Finance; EEA 2025 Congress; CEPR IMF 2025.</sup>
     </li>
     <li>
       <span class="paper-title">Fragmentation and the Future of GVCs</span><br>
