@@ -87,13 +87,13 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
   <div class="section-title">Work in Progress</div>
   <ul class="list-tight">
     <li>
-      <span class="paper-title">Does JIT production change the network structure of GVCs? Evidence from Italian firms</span>
-      <div class="paper-meta">with Simona Giglioli</div>
-    </li>
-    <li>
       <span class="paper-title">The Impact of Trade Wars on Firms in Third Countries: Evidence from Italy</span><br>
       <span class="paper-meta">with  Francesco Paolo Conteduca, Marco Errico, Fabrizio Leone, Ludovic Panon</span><br>
-     <li>
+    <li>
+    <li>
+      <span class="paper-title">Does JIT production change the network structure of GVCs? Evidence from Italian firms</span><br>
+      <div class="paper-meta">with Simona Giglioli</div><br>
+    </li>
   </ul>
 </div>
 
