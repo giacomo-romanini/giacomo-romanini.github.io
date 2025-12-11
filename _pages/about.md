@@ -126,7 +126,7 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
   <ul class="list-tight">
     <li>
       <span class="paper-title">The effects of US tariffs on Italian firms: An ex-ante micro-level perspective</span><br>
-      <span class="paper-meta">with Stefano Federico, Fadi Hassan
+      <span class="paper-meta">with Stefano Federico, Fadi Hassan </span><br>
     </li>
     <li>
     <span class="paper-title">Fragmentation and the Future of GVCs</span><br>
