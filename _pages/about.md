@@ -128,10 +128,10 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
       <span class="paper-title">The effects of US tariffs on Italian firms: An ex-ante micro-level perspective</span><br>
       <span class="paper-meta">with Stefano Federico, Fadi Hassan
     </li>
-        <li>
-      <span class="paper-title">Fragmentation and the Future of GVCs</span><br>
-      <span class="paper-meta">with Francesco Paolo Conteduca, Michele Mancini, Simona Giglioli, Alessandro Borin, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier</span><br>
-      <a class="paper-link" href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0932/index.html?com.dotmarketing.htmlpage.language=1" target="_blank" rel="noopener">submitted</a>
+    <li>
+    <span class="paper-title">Fragmentation and the Future of GVCs</span><br>
+    <span class="paper-meta">with Francesco Paolo Conteduca, Michele Mancini, Simona Giglioli, Alessandro Borin, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier</span><br>
+    <a class="paper-link" href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0932/index.html?com.dotmarketing.htmlpage.language=1" target="_blank" rel="noopener">submitted</a>
     </li>
   </ul>
 </div>
