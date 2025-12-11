@@ -72,11 +72,6 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
       <span class="paper-meta">with Raoul Minetti, Oren Ziv</span><br>
       <sup class="presented">Presented at 2024 Financial Intermediation Workshop Bank of Italy – EIEF; NBER SI 2024; Luiss Business School; 2024 ECB–FRB–FRBNY Global Research Forum on International Macroeconomics and Finance; EEA 2025 Congress; CEPR IMF 2025.</sup>
     </li>
-    <li>
-      <span class="paper-title">Fragmentation and the Future of GVCs</span><br>
-      <span class="paper-meta">with Francesco Paolo Conteduca, Michele Mancini, Simona Giglioli, Alessandro Borin, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier</span><br>
-      <a class="paper-link" href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0932/index.html?com.dotmarketing.htmlpage.language=1" target="_blank" rel="noopener">submitted</a>
-    </li>
   </ul>
 </div>
 
@@ -119,6 +114,20 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
     <li>
       <span class="paper-title">A Sufficient Statistics Approach for Endogenous Production Networks: Theory and Evidence from Ukraine’s War</span>, by Korovkin, Makarin, Miyauchi
       <div class="paper-meta">2023 BdI, ECB, WB workshop on “Trade, value chains and financial linkages in the global economy”</div>
+    </li>
+  </ul>
+</div>
+
+
+<hr class="section">
+
+<div class="section">
+  <div class="section-title">Policy Works</div>
+  <ul class="list-tight">
+    <li>
+      <span class="paper-title">Fragmentation and the Future of GVCs</span><br>
+      <span class="paper-meta">with Francesco Paolo Conteduca, Michele Mancini, Simona Giglioli, Alessandro Borin, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier</span><br>
+      <a class="paper-link" href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0932/index.html?com.dotmarketing.htmlpage.language=1" target="_blank" rel="noopener">submitted</a>
     </li>
   </ul>
 </div>
