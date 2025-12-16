@@ -100,6 +100,10 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
   <div class="section-title">Discussions</div>
   <ul class="list-tight">
     <li>
+      <span class="paper-title">Trade, Multinationals and Corporate Taxation</span>, by Dubus, Ferrari, Parenti
+      <div class="paper-meta">2025 BdI, ECB, WB workshop on “Trade, value chains and financial linkages in the global economy”</div>
+    </li>
+    <li>
       <span class="paper-title">Beyond Bilateral Flows: Indirect Connections and Exchange Rates</span>, by Bahaj, Della Corte, Massacci, Seyde
       <div class="paper-meta">2025 BIS, BoE, ECB and IMF Spillover Conference</div>
     </li>
