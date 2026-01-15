@@ -87,7 +87,7 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
   <ul class="list-tight">
     <li>
       <span class="paper-title">Inside Out: The Allocative Impact of Firms’ Make-or-Buy Decisions on Aggregate Energy Intensity</span><br>
-      <div class="paper-meta">with Carole Marullaz</div><br>
+      <span class="paper-meta">with Carole Marullaz</span><br>
     <sup class="presented">Presented at 2026 CEPR Annual STEG.</sup>
     </li>
       <li>
@@ -96,7 +96,7 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
     </li>
       <li>
       <span class="paper-title">Does JIT production change the network structure of GVCs? Evidence from Italian firms</span><br>
-      <div class="paper-meta">with Simona Giglioli</div><br>
+      <span class="paper-meta">with Simona Giglioli</span><br>
     </li>
   </ul>
 </div>
