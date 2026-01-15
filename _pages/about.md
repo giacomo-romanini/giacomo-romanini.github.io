@@ -72,6 +72,10 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
       <span class="paper-meta">with Raoul Minetti, Oren Ziv</span><br>
       <sup class="presented">Presented at 2024 Financial Intermediation Workshop Bank of Italy – EIEF; NBER SI 2024; Luiss Business School; 2024 ECB–FRB–FRBNY Global Research Forum on International Macroeconomics and Finance; EEA 2025 Congress; CEPR IMF 2025.</sup>
     </li>
+      <li>
+      <span class="paper-title">The Impact of Trade Wars on Firms in Third Countries</span><br>
+      <span class="paper-meta">with  Francesco Paolo Conteduca, Marco Errico, Fabrizio Leone, Ludovic Panon</span><br>
+    </li>
   </ul>
 </div>
 
@@ -81,11 +85,16 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
 <div class="section">
   <div class="section-title">Work in Progress</div>
   <ul class="list-tight">
-    <li>
-      <span class="paper-title">The Impact of Trade Wars on Firms in Third Countries: Evidence from Italy</span><br>
-      <span class="paper-meta">with  Francesco Paolo Conteduca, Marco Errico, Fabrizio Leone, Ludovic Panon</span><br>
+      <li>
+      <span class="paper-title">Geopolitical Tensions, Trade Exposure and Bank Lending</span><br>
+      <span class="paper-meta">with  Fabio Massimo Piersanti</span><br>
     </li>
-    <li>
+        <li>
+      <span class="paper-title">Inside Out: The Allocative Impact of Firms’ Make-or-Buy Decisions on
+Aggregate Energy Intensity</span><br>
+      <div class="paper-meta">with Carole Marullaz</div><br>
+    </li>
+      <li>
       <span class="paper-title">Does JIT production change the network structure of GVCs? Evidence from Italian firms</span><br>
       <div class="paper-meta">with Simona Giglioli</div><br>
     </li>
