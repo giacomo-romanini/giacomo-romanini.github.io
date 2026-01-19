@@ -35,7 +35,7 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
   I am a Senior Research Economist at the Bank of Italy.
 </div>
 <div class="page-intro">
-  My research interests are International Banking and International Trade, with an emphasis on network effects and financial markets frictions.
+  My research interests are International Finance, International Trade, and Networks.
 </div>
 <p class="page-intro">Here's my <a class="paper-link" href="https://giacomo-romanini.github.io/files/CV_Romanini.pdf" target="_blank" rel="noopener">Curriculum Vitae</a></p>
 
