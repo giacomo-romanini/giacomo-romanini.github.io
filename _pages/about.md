@@ -32,7 +32,7 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
 </style>
 
 <div class="page-intro">
-  I am a Senior Research Economist at the Bank of Italy.
+  I am a Senior Economist at the Banca d'Italia.
 </div>
 <div class="page-intro">
   My research interests are International Finance, International Trade, and Networks.
