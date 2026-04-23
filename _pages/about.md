@@ -73,7 +73,7 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
       <sup class="presented">Presented at 2024 Financial Intermediation Workshop Bank of Italy – EIEF; NBER SI 2024; Luiss Business School; 2024 ECB–FRB–FRBNY Global Research Forum on International Macroeconomics and Finance; EEA 2025 Congress; CEPR IMF 2025.</sup>
     </li>
       <li>
-      <span class="paper-title"><a class="paper-link" href="https://drive.google.com/file/d/1rcoOppSPVzcJ5jI1TMhiDkwqFLLzIa0B/view" target="_blank" rel="noopener">The Impact of Trade Wars on Firms in Third Countries</a></span><br>
+      <span class="paper-title"><a class="paper-link" href="https://fabrizioleone.github.io/files/CELPR.pdf" target="_blank" rel="noopener">The Impact of Trade Wars on Firms in Third Countries</a></span><br>
       <span class="paper-meta">with  Francesco Paolo Conteduca, Marco Errico, Fabrizio Leone, Ludovic Panon</span><br>
     </li>
           <li>
