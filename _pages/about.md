@@ -93,7 +93,6 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
     <li>
       <span class="paper-title">Inside Out: The Allocative Impact of Firms’ Make-or-Buy Decisions on Aggregate Energy Intensity</span><br>
       <span class="paper-meta">with Carole Marullaz</span><br>
-    <sup class="presented">Presented by Carole at 2026 CEPR Annual STEG.</sup>
     </li>
       <li>
       <span class="paper-title">Geopolitical Tensions, Trade Exposure and Bank Lending</span><br>
