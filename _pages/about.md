@@ -80,6 +80,10 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
       <span class="paper-title">Granularity in firm-to-firm production networks: a multi-country analysis (first draft coming soon!)</span><br>
       <span class="paper-meta">with G. Magerman, A. Palazzolo, E. Dhyne, A. Borsos, D. Kulikov, A. Linarello, A. Paulus, and  M. Saldias</span><br>
     </li>
+        <li>
+    <span class="paper-title">Fragmentation and the Future of GVCs     <a class="paper-link" href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0932/index.html?com.dotmarketing.htmlpage.language=1" target="_blank" rel="noopener">[Revise and resubmit, The World Economy]</a></span><br>
+    <span class="paper-meta">with Francesco Paolo Conteduca, Michele Mancini, Simona Giglioli, Alessandro Borin, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier</span><br>
+    </li>
   </ul>
 </div>
 
@@ -144,10 +148,6 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
     <li>
       <span class="paper-title">The effects of US tariffs on Italian firms: An ex-ante micro-level perspective  <a class="paper-link" href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0994/index.html?com.dotmarketing.htmlpage.language=1" target="_blank" rel="noopener">[paper]</a> </span><br>
       <span class="paper-meta">with Stefano Federico, Fadi Hassan </span><br>
-    </li>
-    <li>
-    <span class="paper-title">Fragmentation and the Future of GVCs     <a class="paper-link" href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0932/index.html?com.dotmarketing.htmlpage.language=1" target="_blank" rel="noopener">[paper]</a></span><br>
-    <span class="paper-meta">with Francesco Paolo Conteduca, Michele Mancini, Simona Giglioli, Alessandro Borin, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier</span><br>
     </li>
   </ul>
 </div>
