@@ -58,15 +58,15 @@ hr.section{
   margin-bottom:.25rem;
 }
 
+.paper-status{
+  font-style:italic;
+  font-weight:400;
+  color:var(--muted);
+}
+
 .paper-meta{
   color:var(--muted);
   font-size:.95rem;
-}
-
-.paper-status{
-  font-style:italic;
-  color:var(--muted);
-  font-weight:400;
 }
 
 a.paper-link{
@@ -147,9 +147,8 @@ sup.presented{
   <div class="section-title">Working Papers</div>
   <ul class="list-tight">
     <li>
-      <span class="paper-title">
-        Global Financial Chains <span class="paper-status">(new draft coming soon!)</span>
-      </span><br>
+      <span class="paper-title">Global Financial Chains</span>
+      <span class="paper-status">(new draft coming soon!)</span><br>
       <span class="paper-meta">with Raoul Minetti, Oren Ziv</span><br>
       <sup class="presented">Presented at 2024 Financial Intermediation Workshop Bank of Italy – EIEF; NBER SI 2024; Luiss Business School; 2024 ECB–FRB–FRBNY Global Research Forum on International Macroeconomics and Finance; EEA 2025 Congress; CEPR IMF 2025.</sup>
     </li>
@@ -157,25 +156,23 @@ sup.presented{
     <li>
       <span class="paper-title">
         <a class="paper-link" href="https://fabrizioleone.github.io/files/CELPR.pdf" target="_blank" rel="noopener">The Impact of Trade Wars on Firms in Third Countries</a>
-        <span class="paper-status">(submitted)</span>
       </span>
+      <span class="paper-status">(submitted)</span>
       <a class="paper-link" href="https://cepr.org/voxeu/columns/impact-trade-wars-firms-third-countries" target="_blank" rel="noopener">[VoxEU blog]</a><br>
       <span class="paper-meta">with Francesco Paolo Conteduca, Marco Errico, Fabrizio Leone, Ludovic Panon</span><br>
     </li>
 
     <li>
-      <span class="paper-title">
-        Granularity in firm-to-firm production networks: a multi-country analysis
-        <span class="paper-status">(first draft coming soon!)</span>
-      </span><br>
+      <span class="paper-title">Granularity in firm-to-firm production networks: a multi-country analysis</span>
+      <span class="paper-status">(first draft coming soon!)</span><br>
       <span class="paper-meta">with G. Magerman, A. Palazzolo, E. Dhyne, A. Borsos, D. Kulikov, A. Linarello, A. Paulus, and M. Saldias</span><br>
     </li>
 
     <li>
       <span class="paper-title">
         <a class="paper-link" href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0932/index.html?com.dotmarketing.htmlpage.language=1" target="_blank" rel="noopener">Fragmentation and the Future of GVCs</a>
-        <span class="paper-status">(revise and resubmit, The World Economy)</span>
-      </span><br>
+      </span>
+      <span class="paper-status">(revise and resubmit, The World Economy)</span><br>
       <span class="paper-meta">with Francesco Paolo Conteduca, Michele Mancini, Simona Giglioli, Alessandro Borin, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier</span><br>
     </li>
   </ul>
