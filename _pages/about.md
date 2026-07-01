@@ -81,7 +81,7 @@ sup.presented{color:var(--muted);font-size:.8rem;line-height:1.4}
       <span class="paper-meta">with G. Magerman, A. Palazzolo, E. Dhyne, A. Borsos, D. Kulikov, A. Linarello, A. Paulus, and  M. Saldias</span><br>
     </li>
         <li>
-    <span class="paper-title">Fragmentation and the Future of GVCs     <a class="paper-link" href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0932/index.html?com.dotmarketing.htmlpage.language=1" target="_blank" rel="noopener">[Revise and resubmit, The World Economy]</a></span><br>
+    <span class="paper-title"><a class="paper-link" href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0932/index.html?com.dotmarketing.htmlpage.language=1" target="_blank" rel="noopener">[Fragmentation and the Future of GVCs]</a>     Revise and resubmit, The World Economy] </span><br>
     <span class="paper-meta">with Francesco Paolo Conteduca, Michele Mancini, Simona Giglioli, Alessandro Borin, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier</span><br>
     </li>
   </ul>
