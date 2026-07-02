@@ -163,7 +163,7 @@ sup.presented{
     </li>
 
     <li>
-      <span class="paper-title">Granularity in firm-to-firm production networks: a multi-country analysis</span>
+      <span class="paper-title">Beyond firm size: network position and shock transmission in firm-to-firm production networks across five economies</span>
       <span class="paper-status">(first draft coming soon!)</span><br>
       <span class="paper-meta">with G. Magerman, A. Palazzolo, E. Dhyne, A. Borsos, D. Kulikov, A. Linarello, A. Paulus, and M. Saldias</span><br>
     </li>
