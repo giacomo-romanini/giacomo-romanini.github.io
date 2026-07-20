@@ -124,6 +124,9 @@ sup.presented{
         <a class="paper-link" href="https://onlinelibrary.wiley.com/doi/10.1111/twec.70131" target="_blank" rel="noopener">Fragmentation and the Future of GVCs</a>
       </span>
       <span class="paper-meta">(2026) <strong>The World Economy</strong></span><br>
+      <span class="paper-meta">also chapter in the CEPR book </span>  
+          &nbsp;
+      <a class="paper-link" href="https://cepr.org/publications/books-and-reports/state-globalisation" target="_blank" rel="noopener">The Network Gravity of Global Banking</a><br>
       <span class="paper-meta">with Francesco Paolo Conteduca, Michele Mancini, Simona Giglioli, Alessandro Borin, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier</span><br>
     </li>
     <li>
