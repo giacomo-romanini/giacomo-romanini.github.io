@@ -126,7 +126,7 @@ sup.presented{
       <span class="paper-meta">(2026) <strong>The World Economy</strong></span><br>
       <span class="paper-meta">also chapter in the CEPR book </span>  
           &nbsp;
-      <a class="paper-link" href="https://cepr.org/publications/books-and-reports/state-globalisation" target="_blank" rel="noopener">The Network Gravity of Global Banking</a><br>
+      <a class="paper-link" href="https://cepr.org/publications/books-and-reports/state-globalisation" target="_blank" rel="noopener">The State of Globalization (2025)</a><br>
       <span class="paper-meta">with Francesco Paolo Conteduca, Michele Mancini, Simona Giglioli, Alessandro Borin, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier</span><br>
     </li>
     <li>
