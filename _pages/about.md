@@ -119,6 +119,13 @@ sup.presented{
 <div class="section">
   <div class="section-title">Publications</div>
   <ul class="list-tight">
+        <li>
+      <span class="paper-title">
+        <a class="paper-link" href="https://onlinelibrary.wiley.com/doi/10.1111/twec.70131" target="_blank" rel="noopener">Fragmentation and the Future of GVCs</a>
+      </span>
+      <span class="paper-meta">(2026) <strong>The World Economy</strong></span><br>
+      <span class="paper-meta">with Francesco Paolo Conteduca, Michele Mancini, Simona Giglioli, Alessandro Borin, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier</span><br>
+    </li>
     <li>
       <span class="paper-title">
         <a class="paper-link" href="https://www.sciencedirect.com/science/article/abs/pii/S002219962500011X" target="_blank" rel="noopener">Banking Complexity in the Global Economy</a>
@@ -168,13 +175,6 @@ sup.presented{
       <span class="paper-meta">with G. Magerman, A. Palazzolo, E. Dhyne, A. Borsos, D. Kulikov, A. Linarello, A. Paulus, and M. Saldias</span><br>
     </li>
 
-    <li>
-      <span class="paper-title">
-        <a class="paper-link" href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0932/index.html?com.dotmarketing.htmlpage.language=1" target="_blank" rel="noopener">Fragmentation and the Future of GVCs</a>
-      </span>
-      <span class="paper-status">(revise and resubmit, The World Economy)</span><br>
-      <span class="paper-meta">with Francesco Paolo Conteduca, Michele Mancini, Simona Giglioli, Alessandro Borin, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier</span><br>
-    </li>
   </ul>
 </div>
 
