@@ -228,7 +228,7 @@ small.badge{
 </style>
 
 <div class="page-intro">
-  I am a Senior Economist at the Banca d'Italia.
+  I am a Senior Economist at Banca d'Italia.
 </div>
 
 <div class="page-intro">
