@@ -1,3 +1,14 @@
+---
+layout: archive
+permalink: /
+title: ""
+excerpt: "About me"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
 <style>
 @import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600;8..60,700&display=swap");
 
@@ -6,28 +17,29 @@
   --teal-dark:#0b5f59;
   --ink:#1f2937;
   --muted:#6b7280;
-  --light-muted:#9ca3af;
+  --light-muted:#8b95a5;
+  --border:#e5e7eb;
+  --soft-border:#f0f1f3;
   --card-bg:#ffffff;
-  --card-br:#e5e7eb;
 
   --font-sans:"Source Sans 3", -apple-system, BlinkMacSystemFont,
-              "Segoe UI", sans-serif;
+              "Segoe UI", Arial, sans-serif;
 
   --font-serif:"Source Serif 4", Georgia, "Times New Roman", serif;
 }
 
-/* General page typography */
+/* Main page typography */
 .page__content{
-  font-family:var(--font-sans);
   color:var(--ink);
+  font-family:var(--font-sans);
   font-size:1.02rem;
   line-height:1.65;
 }
 
 /* Introductory text */
 .page-intro{
-  max-width:760px;
-  margin:0 0 .7rem;
+  max-width:780px;
+  margin:0 0 .75rem;
   color:var(--ink);
   font-size:1.08rem;
   line-height:1.65;
@@ -38,85 +50,75 @@
   font-weight:500;
 }
 
-/* Section separators */
-hr.section{
-  border:0;
-  border-top:1px solid var(--card-br);
-  margin:2.6rem 0 2.15rem;
+.page-intro:last-of-type{
+  margin-top:1rem;
+  margin-bottom:0;
 }
 
-/* Section headings */
+/* Section layout */
+.content-section{
+  margin:0;
+}
+
+hr.section{
+  margin:2.7rem 0 2.2rem;
+  border:0;
+  border-top:1px solid var(--border);
+}
+
 .section-title{
-  margin:0 0 1.4rem;
-  text-align:center;
+  margin:0 0 1.5rem;
+  color:var(--ink);
   font-family:var(--font-serif);
   font-size:1.55rem;
   font-weight:600;
   line-height:1.25;
-  letter-spacing:-.01em;
-  color:var(--ink);
-}
-
-/* Optional grid/card components */
-.grid{
-  display:grid;
-  gap:1.25rem;
-  grid-template-columns:repeat(auto-fit, minmax(320px, 1fr));
-}
-
-.card{
-  padding:1.25rem 1.4rem;
-  background:var(--card-bg);
-  border:1px solid var(--card-br);
-  border-radius:14px;
+  letter-spacing:-.015em;
+  text-align:center;
 }
 
 /* Lists */
-.list-tight{
+.list-papers{
   margin:0;
-  padding-left:1.25rem;
+  padding-left:1.3rem;
 }
 
-.list-tight > li{
+.list-papers > li{
   margin:0;
-  padding:0 0 1.5rem .2rem;
+  padding:0 0 1.55rem .25rem;
   line-height:1.55;
 }
 
-.list-tight > li:last-child{
-  padding-bottom:0;
+.list-papers > li:not(:last-child){
+  margin-bottom:1.55rem;
+  border-bottom:1px solid var(--soft-border);
 }
 
-/*
-Optional: subtle separators between entries.
-Remove this block if you prefer a completely open layout.
-*/
-.list-tight > li:not(:last-child){
-  margin-bottom:1.5rem;
-  border-bottom:1px solid #f0f1f3;
+.list-papers > li:last-child{
+  padding-bottom:0;
 }
 
 /* Paper titles */
 .paper-title{
+  color:var(--ink);
   font-family:var(--font-serif);
   font-size:1.08rem;
-  font-weight:600;
   font-style:normal;
+  font-weight:600;
   line-height:1.4;
-  color:var(--ink);
 }
 
-/* Status labels */
+/* Paper status */
 .paper-status{
-  margin-left:.2rem;
+  margin-left:.25rem;
   color:var(--muted);
   font-family:var(--font-sans);
   font-size:.94rem;
-  font-weight:400;
   font-style:italic;
+  font-weight:400;
 }
 
-/* Authors, journals, conference information */
+/* Authors, journals, conferences and other metadata */
 .paper-meta{
   color:var(--muted);
   font-family:var(--font-sans);
@@ -134,8 +136,8 @@ a.paper-link{
   color:var(--teal);
   text-decoration-line:underline;
   text-decoration-thickness:1px;
+  text-decoration-color:rgba(15,118,110,.45);
   text-underline-offset:3px;
-  text-decoration-color:rgba(15, 118, 110, .45);
   transition:
     color .15s ease,
     text-decoration-color .15s ease;
@@ -146,7 +148,18 @@ a.paper-link:hover{
   text-decoration-color:var(--teal-dark);
 }
 
-/* Badges */
+/* Presentation history */
+.presented{
+  display:block;
+  margin-top:.5rem;
+  color:var(--light-muted);
+  font-family:var(--font-sans);
+  font-size:.84rem;
+  font-weight:400;
+  line-height:1.5;
+}
+
+/* Optional badge style */
 small.badge{
   display:inline-block;
   padding:.15rem .55rem;
@@ -159,19 +172,21 @@ small.badge{
   font-weight:600;
 }
 
-/* Presentation history */
-sup.presented{
-  display:block;
-  margin-top:.45rem;
-  color:var(--light-muted);
-  font-family:var(--font-sans);
-  font-size:.84rem;
-  font-weight:400;
-  line-height:1.5;
-  vertical-align:baseline;
+/* Optional grid and cards */
+.grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit, minmax(320px, 1fr));
+  gap:1.25rem;
 }
 
-/* Improve mobile spacing */
+.card{
+  padding:1.25rem 1.4rem;
+  border:1px solid var(--border);
+  border-radius:14px;
+  background:var(--card-bg);
+}
+
+/* Mobile */
 @media (max-width:600px){
   .page__content{
     font-size:1rem;
@@ -181,23 +196,36 @@ sup.presented{
     font-size:1.03rem;
   }
 
-  .section-title{
-    font-size:1.4rem;
+  .page-intro:first-of-type{
+    font-size:1.1rem;
   }
 
   hr.section{
     margin:2.2rem 0 1.8rem;
   }
 
-  .list-tight > li{
+  .section-title{
+    margin-bottom:1.25rem;
+    font-size:1.4rem;
+  }
+
+  .list-papers{
+    padding-left:1.1rem;
+  }
+
+  .list-papers > li{
     padding-bottom:1.25rem;
   }
 
-  .list-tight > li:not(:last-child){
+  .list-papers > li:not(:last-child){
     margin-bottom:1.25rem;
   }
 
-
+  .paper-title{
+    font-size:1.04rem;
+  }
+}
+</style>
 
 <div class="page-intro">
   I am a Senior Economist at the Banca d'Italia.
@@ -208,148 +236,339 @@ sup.presented{
 </div>
 
 <p class="page-intro">
-  Here's my <a class="paper-link" href="https://giacomo-romanini.github.io/files/CV_Romanini.pdf" target="_blank" rel="noopener">Curriculum Vitae</a>
+  Here's my
+  <a
+    class="paper-link"
+    href="https://giacomo-romanini.github.io/files/CV_Romanini.pdf"
+    target="_blank"
+    rel="noopener"
+  >Curriculum Vitae</a>.
 </p>
 
-
 <hr class="section">
 
-<div class="section">
-  <div class="section-title">Publications</div>
-  <ul class="list-tight">
-        <li>
-      <span class="paper-title">
-        <a class="paper-link" href="https://onlinelibrary.wiley.com/doi/10.1111/twec.70131" target="_blank" rel="noopener">Fragmentation and the Future of GVCs</a>
-      </span>
-      <span class="paper-meta">(2026) <strong>The World Economy</strong></span><br>
-      <span class="paper-meta">also chapter in the CEPR book </span>  
-          &nbsp;
-      <a class="paper-link" href="https://cepr.org/publications/books-and-reports/state-globalisation" target="_blank" rel="noopener">The State of Globalization (2025)</a><br>
-      <span class="paper-meta">with Francesco Paolo Conteduca, Michele Mancini, Simona Giglioli, Alessandro Borin, Maria Grazia Attinasi, Lukas Boeckelmann, and Baptiste Meunier</span><br>
-    </li>
+<section class="content-section">
+  <h2 class="section-title">Publications</h2>
+
+  <ul class="list-papers">
     <li>
       <span class="paper-title">
-        <a class="paper-link" href="https://www.sciencedirect.com/science/article/abs/pii/S002219962500011X" target="_blank" rel="noopener">Banking Complexity in the Global Economy</a>
+        <a
+          class="paper-link"
+          href="https://onlinelibrary.wiley.com/doi/10.1111/twec.70131"
+          target="_blank"
+          rel="noopener"
+        >Fragmentation and the Future of GVCs</a>
       </span>
-      <span class="paper-meta">(2025) <strong>Journal of International Economics</strong></span><br>
-      <span class="paper-meta">also circulated as</span>
-      &nbsp;
-      <a class="paper-link" href="https://www.bancaditalia.it/pubblicazioni/temi-discussione/2025/2025-1485/index.html?com.dotmarketing.htmlpage.language=1" target="_blank" rel="noopener">The Network Gravity of Global Banking</a><br>
-      <span class="paper-meta">with Raoul Minetti, Oren Ziv</span>
+
+      <span class="paper-meta">
+        (2026) <strong>The World Economy</strong>
+      </span>
+
+      <br>
+
+      <span class="paper-meta">
+        Also published as a chapter in the CEPR book
+      </span>
+
+      <a
+        class="paper-link"
+        href="https://cepr.org/publications/books-and-reports/state-globalisation"
+        target="_blank"
+        rel="noopener"
+      >The State of Globalisation</a>
+
+      <span class="paper-meta">(2025).</span>
+
+      <br>
+
+      <span class="paper-meta">
+        With Francesco Paolo Conteduca, Michele Mancini, Simona Giglioli,
+        Alessandro Borin, Maria Grazia Attinasi, Lukas Boeckelmann, and
+        Baptiste Meunier.
+      </span>
     </li>
 
     <li>
       <span class="paper-title">
-        <a class="paper-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0304393220300015" target="_blank" rel="noopener">Recessions and Recoveries: Multinational Banks in the Business Cycle</a>
+        <a
+          class="paper-link"
+          href="https://www.sciencedirect.com/science/article/abs/pii/S002219962500011X"
+          target="_blank"
+          rel="noopener"
+        >Banking Complexity in the Global Economy</a>
       </span>
-      <span class="paper-meta">(2021) <strong>Journal of Monetary Economics</strong></span><br>
-      <span class="paper-meta">with Qingqing Cao, Raoul Minetti, Maria Pia Olivero</span>
+
+      <span class="paper-meta">
+        (2025) <strong>Journal of International Economics</strong>
+      </span>
+
+      <br>
+
+      <span class="paper-meta">
+        Also circulated as
+      </span>
+
+      <a
+        class="paper-link"
+        href="https://www.bancaditalia.it/pubblicazioni/temi-discussione/2025/2025-1485/index.html?com.dotmarketing.htmlpage.language=1"
+        target="_blank"
+        rel="noopener"
+      >The Network Gravity of Global Banking</a>.
+
+      <br>
+
+      <span class="paper-meta">
+        With Raoul Minetti and Oren Ziv.
+      </span>
+    </li>
+
+    <li>
+      <span class="paper-title">
+        <a
+          class="paper-link"
+          href="https://www.sciencedirect.com/science/article/abs/pii/S0304393220300015"
+          target="_blank"
+          rel="noopener"
+        >Recessions and Recoveries: Multinational Banks in the Business Cycle</a>
+      </span>
+
+      <span class="paper-meta">
+        (2021) <strong>Journal of Monetary Economics</strong>
+      </span>
+
+      <br>
+
+      <span class="paper-meta">
+        With Qingqing Cao, Raoul Minetti, and Maria Pia Olivero.
+      </span>
     </li>
   </ul>
-</div>
-
+</section>
 
 <hr class="section">
 
-<div class="section">
-  <div class="section-title">Working Papers</div>
-  <ul class="list-tight">
+<section class="content-section">
+  <h2 class="section-title">Working Papers</h2>
+
+  <ul class="list-papers">
     <li>
       <span class="paper-title">Global Financial Chains</span>
-      <span class="paper-status">(new draft coming soon!)</span><br>
-      <span class="paper-meta">with Raoul Minetti, Oren Ziv</span><br>
-      <sup class="presented">Presented at 2024 Financial Intermediation Workshop Bank of Italy – EIEF; NBER SI 2024; Luiss Business School; 2024 ECB–FRB–FRBNY Global Research Forum on International Macroeconomics and Finance; EEA 2025 Congress; CEPR IMF 2025.</sup>
-    </li>
+      <span class="paper-status">(new draft coming soon)</span>
 
-    <li>
-      <span class="paper-title">
-        <a class="paper-link" href="https://fabrizioleone.github.io/files/CELPR.pdf" target="_blank" rel="noopener">The Impact of Trade Wars on Firms in Third Countries</a>
+      <br>
+
+      <span class="paper-meta">
+        With Raoul Minetti and Oren Ziv.
       </span>
-      <span class="paper-status">(submitted)</span>
-      <a class="paper-link" href="https://cepr.org/voxeu/columns/impact-trade-wars-firms-third-countries" target="_blank" rel="noopener">[VoxEU blog]</a><br>
-      <span class="paper-meta">with Francesco Paolo Conteduca, Marco Errico, Fabrizio Leone, Ludovic Panon</span><br>
+
+      <span class="presented">
+        Presented at the 2024 Bank of Italy–EIEF Financial Intermediation
+        Workshop; NBER Summer Institute 2024; Luiss Business School; the 2024
+        ECB–Federal Reserve Board–Federal Reserve Bank of New York Global
+        Research Forum on International Macroeconomics and Finance; the EEA
+        2025 Congress; and CEPR–IMF 2025.
+      </span>
     </li>
 
-    <li>
-      <span class="paper-title">Beyond firm size: network position and shock transmission in firm-to-firm production networks across five economies</span>
-      <span class="paper-status">(first draft coming soon!)</span><br>
-      <span class="paper-meta">with G. Magerman, A. Palazzolo, E. Dhyne, A. Borsos, D. Kulikov, A. Linarello, A. Paulus, and M. Saldias</span><br>
-    </li>
-
-  </ul>
-</div>
-
-
-<hr class="section">
-
-<div class="section">
-  <div class="section-title">Work in Progress</div>
-  <ul class="list-tight">
-    <li>
-      <span class="paper-title">Inside Out: The Allocative Impact of Firms’ Make-or-Buy Decisions on Aggregate Energy Intensity</span><br>
-      <span class="paper-meta">with Carole Marullaz</span><br>
-    </li>
-
-    <li>
-      <span class="paper-title">Geopolitical Tensions, Trade Exposure and Bank Lending</span><br>
-      <span class="paper-meta">with Fabio Massimo Piersanti</span><br>
-    </li>
-
-    <li>
-      <span class="paper-title">Does JIT production change the network structure of GVCs? Evidence from Italian firms</span><br>
-      <span class="paper-meta">with Simona Giglioli</span><br>
-    </li>
-  </ul>
-</div>
-
-
-<hr class="section">
-
-<div class="section">
-  <div class="section-title">Discussions</div>
-  <ul class="list-tight">
-    <li>
-      <span class="paper-title">Trade, Multinationals and Corporate Taxation</span>, by Dubus, Ferrari, Parenti
-      <div class="paper-meta">2025 BdI, ECB, WB workshop on “Trade, value chains and financial linkages in the global economy”</div>
-    </li>
-
-    <li>
-      <span class="paper-title">Beyond Bilateral Flows: Indirect Connections and Exchange Rates</span>, by Bahaj, Della Corte, Massacci, Seyde
-      <div class="paper-meta">2025 BIS, BoE, ECB and IMF Spillover Conference</div>
-    </li>
-
-    <li>
-      <span class="paper-title">Trade Intermediation and Resilience in Global Sourcing</span>, by Perelló
-      <div class="paper-meta">2024 BdI, ECB, WB workshop on “Trade, value chains and financial linkages in the global economy”</div>
-    </li>
-
-    <li>
-      <span class="paper-title">The Ripple Effect: Supply Chain Reconfigurations and Cross-border Credit Dynamics</span>, by Correa, Fabiani, Ossandon, Sarmiento
-      <div class="paper-meta">2024 10th Annual Banking Research Network Workshop</div>
-    </li>
-
-    <li>
-      <span class="paper-title">A Sufficient Statistics Approach for Endogenous Production Networks: Theory and Evidence from Ukraine’s War</span>, by Korovkin, Makarin, Miyauchi
-      <div class="paper-meta">2023 BdI, ECB, WB workshop on “Trade, value chains and financial linkages in the global economy”</div>
-    </li>
-  </ul>
-</div>
-
-
-<hr class="section">
-
-<div class="section">
-  <div class="section-title">Policy Works</div>
-  <ul class="list-tight">
     <li>
       <span class="paper-title">
-        The effects of US tariffs on Italian firms: An ex-ante micro-level perspective
-        <a class="paper-link" href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0994/index.html?com.dotmarketing.htmlpage.language=1" target="_blank" rel="noopener">[paper]</a>
-      </span><br>
-      <span class="paper-meta">with Stefano Federico, Fadi Hassan</span><br>
+        <a
+          class="paper-link"
+          href="https://fabrizioleone.github.io/files/CELPR.pdf"
+          target="_blank"
+          rel="noopener"
+        >The Impact of Trade Wars on Firms in Third Countries</a>
+      </span>
+
+      <span class="paper-status">(submitted)</span>
+
+      <a
+        class="paper-link"
+        href="https://cepr.org/voxeu/columns/impact-trade-wars-firms-third-countries"
+        target="_blank"
+        rel="noopener"
+      >[VoxEU]</a>
+
+      <br>
+
+      <span class="paper-meta">
+        With Francesco Paolo Conteduca, Marco Errico, Fabrizio Leone,
+        Ludovic Panon, and others.
+      </span>
+    </li>
+
+    <li>
+      <span class="paper-title">
+        Beyond Firm Size: Network Position and Shock Transmission in
+        Firm-to-Firm Production Networks across Five Economies
+      </span>
+
+      <span class="paper-status">(first draft coming soon)</span>
+
+      <br>
+
+      <span class="paper-meta">
+        With G. Magerman, A. Palazzolo, E. Dhyne, A. Borsos, D. Kulikov,
+        A. Linarello, A. Paulus, and M. Saldias.
+      </span>
     </li>
   </ul>
-</div>
+</section>
 
-}
-</style>
+<hr class="section">
+
+<section class="content-section">
+  <h2 class="section-title">Work in Progress</h2>
+
+  <ul class="list-papers">
+    <li>
+      <span class="paper-title">
+        Inside Out: The Allocative Impact of Firms’ Make-or-Buy Decisions
+        on Aggregate Energy Intensity
+      </span>
+
+      <br>
+
+      <span class="paper-meta">
+        With Carole Marullaz.
+      </span>
+    </li>
+
+    <li>
+      <span class="paper-title">
+        Geopolitical Tensions, Trade Exposure and Bank Lending
+      </span>
+
+      <br>
+
+      <span class="paper-meta">
+        With Fabio Massimo Piersanti.
+      </span>
+    </li>
+
+    <li>
+      <span class="paper-title">
+        Does JIT Production Change the Network Structure of GVCs?
+        Evidence from Italian Firms
+      </span>
+
+      <br>
+
+      <span class="paper-meta">
+        With Simona Giglioli.
+      </span>
+    </li>
+  </ul>
+</section>
+
+<hr class="section">
+
+<section class="content-section">
+  <h2 class="section-title">Discussions</h2>
+
+  <ul class="list-papers">
+    <li>
+      <span class="paper-title">
+        Trade, Multinationals and Corporate Taxation
+      </span>
+
+      <span class="paper-meta">
+        by Dubus, Ferrari, and Parenti.
+      </span>
+
+      <div class="paper-meta">
+        2025 Bank of Italy, ECB, and World Bank workshop on “Trade, Value
+        Chains and Financial Linkages in the Global Economy.”
+      </div>
+    </li>
+
+    <li>
+      <span class="paper-title">
+        Beyond Bilateral Flows: Indirect Connections and Exchange Rates
+      </span>
+
+      <span class="paper-meta">
+        by Bahaj, Della Corte, Massacci, and Seyde.
+      </span>
+
+      <div class="paper-meta">
+        2025 BIS, Bank of England, ECB, and IMF Spillover Conference.
+      </div>
+    </li>
+
+    <li>
+      <span class="paper-title">
+        Trade Intermediation and Resilience in Global Sourcing
+      </span>
+
+      <span class="paper-meta">
+        by Perelló.
+      </span>
+
+      <div class="paper-meta">
+        2024 Bank of Italy, ECB, and World Bank workshop on “Trade, Value
+        Chains and Financial Linkages in the Global Economy.”
+      </div>
+    </li>
+
+    <li>
+      <span class="paper-title">
+        The Ripple Effect: Supply Chain Reconfigurations and Cross-Border
+        Credit Dynamics
+      </span>
+
+      <span class="paper-meta">
+        by Correa, Fabiani, Ossandon, and Sarmiento.
+      </span>
+
+      <div class="paper-meta">
+        2024 10th Annual Banking Research Network Workshop.
+      </div>
+    </li>
+
+    <li>
+      <span class="paper-title">
+        A Sufficient Statistics Approach for Endogenous Production Networks:
+        Theory and Evidence from Ukraine’s War
+      </span>
+
+      <span class="paper-meta">
+        by Korovkin, Makarin, and Miyauchi.
+      </span>
+
+      <div class="paper-meta">
+        2023 Bank of Italy, ECB, and World Bank workshop on “Trade, Value
+        Chains and Financial Linkages in the Global Economy.”
+      </div>
+    </li>
+  </ul>
+</section>
+
+<hr class="section">
+
+<section class="content-section">
+  <h2 class="section-title">Policy Work</h2>
+
+  <ul class="list-papers">
+    <li>
+      <span class="paper-title">
+        The Effects of US Tariffs on Italian Firms: An Ex-Ante Micro-Level
+        Perspective
+      </span>
+
+      <a
+        class="paper-link"
+        href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0994/index.html?com.dotmarketing.htmlpage.language=1"
+        target="_blank"
+        rel="noopener"
+      >[paper]</a>
+
+      <br>
+
+      <span class="paper-meta">
+        With Stefano Federico and Fadi Hassan.
+      </span>
+    </li>
+  </ul>
+</section>
