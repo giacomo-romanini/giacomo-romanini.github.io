@@ -431,7 +431,7 @@ small.badge{
       <br>
 
       <span class="paper-meta">
-        with Carole Marullaz.
+        with Carole Marullaz
       </span>
     </li>
 
@@ -443,7 +443,7 @@ small.badge{
       <br>
 
       <span class="paper-meta">
-        with Fabio Massimo Piersanti.
+        with Fabio Massimo Piersanti
       </span>
     </li>
 
@@ -456,7 +456,7 @@ small.badge{
       <br>
 
       <span class="paper-meta">
-        with Simona Giglioli.
+        with Simona Giglioli
       </span>
     </li>
   </ul>
