@@ -283,7 +283,7 @@ small.badge{
       <br>
 
       <span class="paper-meta">
-        With Francesco Paolo Conteduca, Michele Mancini, Simona Giglioli,
+        with Francesco Paolo Conteduca, Michele Mancini, Simona Giglioli,
         Alessandro Borin, Maria Grazia Attinasi, Lukas Boeckelmann, and
         Baptiste Meunier.
       </span>
@@ -319,7 +319,7 @@ small.badge{
       <br>
 
       <span class="paper-meta">
-        With Raoul Minetti and Oren Ziv.
+        with Raoul Minetti and Oren Ziv.
       </span>
     </li>
 
@@ -340,7 +340,7 @@ small.badge{
       <br>
 
       <span class="paper-meta">
-        With Qingqing Cao, Raoul Minetti, and Maria Pia Olivero.
+        with Qingqing Cao, Raoul Minetti, and Maria Pia Olivero.
       </span>
     </li>
   </ul>
@@ -359,7 +359,7 @@ small.badge{
       <br>
 
       <span class="paper-meta">
-        With Raoul Minetti and Oren Ziv.
+        with Raoul Minetti and Oren Ziv.
       </span>
 
       <span class="presented">
@@ -393,7 +393,7 @@ small.badge{
       <br>
 
       <span class="paper-meta">
-        With Francesco Paolo Conteduca, Marco Errico, Fabrizio Leone,
+        with Francesco Paolo Conteduca, Marco Errico, Fabrizio Leone,
         Ludovic Panon, and others.
       </span>
     </li>
@@ -409,7 +409,7 @@ small.badge{
       <br>
 
       <span class="paper-meta">
-        With G. Magerman, A. Palazzolo, E. Dhyne, A. Borsos, D. Kulikov,
+        with G. Magerman, A. Palazzolo, E. Dhyne, A. Borsos, D. Kulikov,
         A. Linarello, A. Paulus, and M. Saldias.
       </span>
     </li>
@@ -431,7 +431,7 @@ small.badge{
       <br>
 
       <span class="paper-meta">
-        With Carole Marullaz.
+        with Carole Marullaz.
       </span>
     </li>
 
@@ -443,7 +443,7 @@ small.badge{
       <br>
 
       <span class="paper-meta">
-        With Fabio Massimo Piersanti.
+        with Fabio Massimo Piersanti.
       </span>
     </li>
 
@@ -456,7 +456,7 @@ small.badge{
       <br>
 
       <span class="paper-meta">
-        With Simona Giglioli.
+        with Simona Giglioli.
       </span>
     </li>
   </ul>
@@ -567,7 +567,7 @@ small.badge{
       <br>
 
       <span class="paper-meta">
-        With Stefano Federico and Fadi Hassan.
+        with Stefano Federico and Fadi Hassan.
       </span>
     </li>
   </ul>
