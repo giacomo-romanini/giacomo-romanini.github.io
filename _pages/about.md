@@ -554,7 +554,7 @@ small.badge{
     <li>
       <span class="paper-title">
         The Effects of US Tariffs on Italian Firms: An Ex-Ante Micro-Level
-        Perspective
+        Perspective (2025)
       </span>
 
       <a
