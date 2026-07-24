@@ -285,7 +285,7 @@ small.badge{
       <span class="paper-meta">
         with Francesco Paolo Conteduca, Michele Mancini, Simona Giglioli,
         Alessandro Borin, Maria Grazia Attinasi, Lukas Boeckelmann, and
-        Baptiste Meunier.
+        Baptiste Meunier
       </span>
     </li>
 
@@ -319,7 +319,7 @@ small.badge{
       <br>
 
       <span class="paper-meta">
-        with Raoul Minetti and Oren Ziv.
+        with Raoul Minetti and Oren Ziv
       </span>
     </li>
 
@@ -340,7 +340,7 @@ small.badge{
       <br>
 
       <span class="paper-meta">
-        with Qingqing Cao, Raoul Minetti, and Maria Pia Olivero.
+        with Qingqing Cao, Raoul Minetti, and Maria Pia Olivero
       </span>
     </li>
   </ul>
@@ -359,7 +359,7 @@ small.badge{
       <br>
 
       <span class="paper-meta">
-        with Raoul Minetti and Oren Ziv.
+        with Raoul Minetti and Oren Ziv
       </span>
 
       <span class="presented">
@@ -394,7 +394,7 @@ small.badge{
 
       <span class="paper-meta">
         with Francesco Paolo Conteduca, Marco Errico, Fabrizio Leone,
-        Ludovic Panon, and others.
+        Ludovic Panon
       </span>
     </li>
 
@@ -410,7 +410,7 @@ small.badge{
 
       <span class="paper-meta">
         with G. Magerman, A. Palazzolo, E. Dhyne, A. Borsos, D. Kulikov,
-        A. Linarello, A. Paulus, and M. Saldias.
+        A. Linarello, A. Paulus, and M. Saldias
       </span>
     </li>
   </ul>
