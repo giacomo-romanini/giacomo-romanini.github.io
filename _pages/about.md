@@ -232,7 +232,7 @@ small.badge{
 </div>
 
 <div class="page-intro">
-  My research interests are International Finance, International Trade, and Networks.
+  My research interests are in International Finance, International Trade, and Networks.
 </div>
 
 <p class="page-intro">
