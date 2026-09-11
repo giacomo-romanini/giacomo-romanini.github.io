@@ -431,7 +431,10 @@ small.badge{
       <br>
 
       <span class="paper-meta">
-        with Carole Marullaz
+        with <a  https://carolemarullaz.github.io/research/"
+          target="_blank"
+          rel="noopener"
+        >Carole Marullaz</a>  [this is Carole's JMP, check her website for full CV!]
       </span>
     </li>
 
