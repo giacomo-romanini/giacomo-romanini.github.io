@@ -454,14 +454,13 @@ small.badge{
 
     <li>
       <span class="paper-title">
-        Does JIT Production Change the Network Structure of GVCs?
-        Evidence from Italian Firms
+  How firms finance dominant-currency trade
       </span>
 
       <br>
 
       <span class="paper-meta">
-        with Simona Giglioli
+        with Valerio Della Corte and Stefano Federico
       </span>
     </li>
   </ul>
