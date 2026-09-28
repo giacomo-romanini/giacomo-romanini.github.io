@@ -429,6 +429,12 @@ small.badge{
           rel="noopener"
         >Carole Marullaz</a>  [this is Carole's JMP, check her website for full CV!]
       </span>
+
+      
+      <span class="presented">
+Presented by Carole at the University of Zurich, Yale University, Sciences Po, the SAEE Student Workshop, the Swiss Macro Workshop, the UZH Environmental Policy for the Green Transition Workshop, the 2025 CEPR Paris Symposium, the 2026 STEG Annual Conference, the PSE-CEPR Policy Forum, the FNRS Namur Summer School, the 2026 Workshop on International Economic Networks (WIEN), the CEPR Climate Change and the Environment Symposium, the Banca d'Italia/CEPR/EIEF/World Bank Conference on Firm Dynamics, Investment and Aggregate Growth and the Applied Young Economists' Webinar
+ </span>
+ 
     </li>
 
       </ul>
