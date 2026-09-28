@@ -413,7 +413,6 @@ small.badge{
         A. Linarello, A. Paulus, and M. Saldias
       </span>
     </li>
-  </ul>
 
       <li>
       <span class="paper-title">
@@ -431,6 +430,9 @@ small.badge{
         >Carole Marullaz</a>  [this is Carole's JMP, check her website for full CV!]
       </span>
     </li>
+
+      </ul>
+
     
 </section>
 
