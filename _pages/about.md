@@ -404,7 +404,7 @@ small.badge{
         Firm-to-Firm Production Networks across Five Economies
       </span>
 
-      <span class="paper-status">(first draft coming soon)</span>
+      <span class="paper-status">(first draft coming tomorrow!)</span>
 
       <br>
 
@@ -414,18 +414,10 @@ small.badge{
       </span>
     </li>
   </ul>
-</section>
 
-<hr class="section">
-
-<section class="content-section">
-  <h2 class="section-title">Work in Progress</h2>
-
-  <ul class="list-papers">
-    <li>
+      <li>
       <span class="paper-title">
-        Inside Out: The Allocative Impact of Firms’ Make-or-Buy Decisions
-        on Aggregate Energy Intensity
+        Make or Buy? Allocative Energy Efficiency in Production Networks
       </span>
 
       <br>
@@ -439,6 +431,15 @@ small.badge{
         >Carole Marullaz</a>  [this is Carole's JMP, check her website for full CV!]
       </span>
     </li>
+    
+</section>
+
+<hr class="section">
+
+<section class="content-section">
+  <h2 class="section-title">Work in Progress</h2>
+
+  <ul class="list-papers">
 
     <li>
       <span class="paper-title">
