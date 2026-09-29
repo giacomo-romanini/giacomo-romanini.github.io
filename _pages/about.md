@@ -451,7 +451,7 @@ Presented by Carole at the University of Zurich, Yale University, Sciences Po, t
 
     <li>
       <span class="paper-title">
-        Geopolitical Tensions, Trade Exposure and Bank Lending
+        Bank Portfolios and Trade Exposure
       </span>
 
       <br>
