@@ -404,11 +404,10 @@ small.badge{
         class="paper-link"
         href="https://www.nbb.be/doc/ts/publications/wp/wp496en.pdf"
         target="_blank"
-        rel="noopener">
-        Beyond Firm Size: Network Position and Shock Transmission in
+        rel="noopener"
+        >Beyond Firm Size: Network Position and Shock Transmission in
         Firm-to-Firm Production Networks across Five Economies</a>
       </span>
-
 
       <br>
 
