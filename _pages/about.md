@@ -400,7 +400,8 @@ small.badge{
 
     <li>
       <span class="paper-title">
-              class="paper-link"
+        <a
+        class="paper-link"
         href="https://www.nbb.be/doc/ts/publications/wp/wp496en.pdf"
         target="_blank"
         rel="noopener">
