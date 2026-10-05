@@ -248,7 +248,6 @@ small.badge{
 <hr class="section">
 
 
-<hr class="section">
 
 <section class="content-section">
   <h2 class="section-title">Working Papers</h2>
@@ -344,6 +343,8 @@ Presented by Carole at the University of Zurich, Yale University, Sciences Po, t
     </li>
 
       </ul>
+
+<hr class="section">
 
 
 <section class="content-section">
