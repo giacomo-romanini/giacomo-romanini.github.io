@@ -478,6 +478,20 @@ Presented by Carole at the University of Zurich, Yale University, Sciences Po, t
         with Valerio Della Corte and Stefano Federico
       </span>
     </li>
+    
+        <li>
+      <span class="paper-title">
+        Energy efficiency within firm boundaries
+      </span>
+
+      <br>
+
+      <span class="paper-meta">
+        with Carole Marullaz 
+      </span>
+    </li>
+
+    
   </ul>
 </section>
 
