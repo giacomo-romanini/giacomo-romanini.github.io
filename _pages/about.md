@@ -285,7 +285,7 @@ small.badge{
       <span class="paper-title">
         <a
         class="paper-link"
-        href="https://www.nbb.be/doc/ts/publications/wp/wp496en.pdf"
+        href="https://www.bancaditalia.it/pubblicazioni/temi-discussione/2026/2026-1549/en_tema_1549.pdf"
         target="_blank"
         rel="noopener"
         >Beyond Firm Size: Network Position and Shock Transmission in
