@@ -261,7 +261,7 @@ small.badge{
           href="https://carolemarullaz.github.io/research/"
           target="_blank"
           rel="noopener"
-        >Make or Buy? Allocative Energy Efficiency in Production Networks [this is Carole's JMP!]</a> 
+        >Make or Buy? Allocative Energy Efficiency in Production Networks -- [this is Carole's JMP!]</a> 
       </span>
 
       <br>
