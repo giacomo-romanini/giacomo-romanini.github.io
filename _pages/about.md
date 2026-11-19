@@ -256,7 +256,7 @@ small.badge{
 
         <li>
       <span class="paper-title">
-        a
+        <a
           class="paper-link"
           href="https://carolemarullaz.github.io/research/"
           target="_blank"
