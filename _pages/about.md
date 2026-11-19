@@ -253,6 +253,30 @@ small.badge{
   <h2 class="section-title">Working Papers</h2>
 
   <ul class="list-papers">
+
+        <li>
+      <span class="paper-title">
+        a
+          class="paper-link"
+          href="https://carolemarullaz.github.io/research/"
+          target="_blank"
+          rel="noopener"
+        >Make or Buy? Allocative Energy Efficiency in Production Networks [this is Carole's JMP!]</a> 
+      </span>
+
+      <br>
+
+      <span class="paper-meta">
+        with Carole Marullaz  
+      </span>
+
+      
+      <span class="presented">
+Presented by Carole at the University of Zurich, Yale University, Sciences Po, the SAEE Student Workshop, the Swiss Macro Workshop, the UZH Environmental Policy for the Green Transition Workshop, the 2025 CEPR Paris Symposium, the 2026 STEG Annual Conference, the PSE-CEPR Policy Forum, the FNRS Namur Summer School, the 2026 Workshop on International Economic Networks (WIEN), the CEPR Climate Change and the Environment Symposium, the Banca d'Italia/CEPR/EIEF/World Bank Conference on Firm Dynamics, Investment and Aggregate Growth and the Applied Young Economists' Webinar
+ </span>
+ 
+    </li>
+    
  
     <li>
       <span class="paper-title">
@@ -300,28 +324,6 @@ small.badge{
       </span>
     </li>
 
-      <li>
-      <span class="paper-title">
-        Make or Buy? Allocative Energy Efficiency in Production Networks
-      </span>
-
-      <br>
-
-      <span class="paper-meta">
-        with <a
-          class="paper-link"
-          href="https://carolemarullaz.github.io/research/"
-          target="_blank"
-          rel="noopener"
-        >Carole Marullaz</a>  [this is Carole's JMP, check her website for full CV!]
-      </span>
-
-      
-      <span class="presented">
-Presented by Carole at the University of Zurich, Yale University, Sciences Po, the SAEE Student Workshop, the Swiss Macro Workshop, the UZH Environmental Policy for the Green Transition Workshop, the 2025 CEPR Paris Symposium, the 2026 STEG Annual Conference, the PSE-CEPR Policy Forum, the FNRS Namur Summer School, the 2026 Workshop on International Economic Networks (WIEN), the CEPR Climate Change and the Environment Symposium, the Banca d'Italia/CEPR/EIEF/World Bank Conference on Firm Dynamics, Investment and Aggregate Growth and the Applied Young Economists' Webinar
- </span>
- 
-    </li>
 
    <li>
       <span class="paper-title">Global Financial Chains</span>
